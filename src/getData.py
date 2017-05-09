@@ -22,11 +22,11 @@ def beforetoday(year, month, day):
 
 counter = 0
 
-stocks = ['UAL', 'AAPL', 'GOOG', 'MSFN']
+ticker = ['UAL', 'AAPL', 'AMZN', 'BABA', 'CVX', 'GOOG', 'MSFT', 'VEEV']
 stocklist = []
 
-for stock in stocks:
-    yahoo = Share(stock)
+for ticker in tickers:
+    yahoo = Share(ticker)
     currentstock = []
 
     for month in range(1, 12):
@@ -63,7 +63,7 @@ for stock in stocks:
 
     stocklist.append(currentstock)
 
-    print("PRINTED " + str(counter) + " OBJECTS FOR " + stock)
+    print("PRINTED " + str(counter) + " OBJECTS FOR " + ticker)
     counter = 0
 
 print("REPORTED " + str(stocklist.__sizeof__()) + " STOCKS.")
