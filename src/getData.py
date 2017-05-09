@@ -22,7 +22,7 @@ def beforetoday(year, month, day):
 
 counter = 0
 
-ticker = ['UAL', 'AAPL', 'AMZN', 'BABA', 'CVX', 'GOOG', 'MSFT', 'VEEV']
+tickers = ['UAL', 'AAPL', 'AMZN', 'BABA', 'CVX', 'GOOG', 'MSFT', 'VEEV']
 stocklist = []
 
 for ticker in tickers:
