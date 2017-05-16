@@ -1,5 +1,5 @@
-from src.data_wrangler import get_data
-from src.stock import Stock
+from data_wrangler import get_data
+from stock import Stock
 
 # Data holding the info for bands
 stock_data_dict = {}

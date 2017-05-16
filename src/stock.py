@@ -1,3 +1,4 @@
+
 class Stock(object):
 
     # Important data for bollinger bands
@@ -5,6 +6,7 @@ class Stock(object):
     deviation = 0
 
     def __init__(self, data_list):
+        print("Length: ", len(data_list))
         mean_price = calc_mean(data_list)
         deviation = calc_dev(data_list, mean_price)
 
@@ -16,7 +18,7 @@ def calc_mean(data_list):
         price = data['Close']
         total += float(price)
     avg = total/len(data_list)
-    print("Average price: ", total)
+    print("Average price: ", avg)
     return avg
 
 
