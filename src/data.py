@@ -6,8 +6,8 @@ import io
 company_data_list = {}
 
 
-def init():
-    company_list = open("input/company_list.txt")
+def init(path):
+    company_list = open(path)
     for name in company_list:
         # Get data from google finance url
         name = name.strip()
@@ -19,6 +19,6 @@ def init():
 
 
 # Returns list of data (pandas dataframes)
-def get_data():
-    init()
+def get_data(path):
+    init(path)
     return company_data_list

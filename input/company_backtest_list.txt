@@ -1,0 +1,4 @@
+AAPL
+GOOG
+NVDA
+AMZN
