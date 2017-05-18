@@ -1,19 +1,18 @@
-from data_wrangler import get_data
 from stock import Stock
-
-# Data holding the info for bands
-stock_data_dict = []
+from data import get_data
 
 
-def init():
-    # Get data from data_wrangler
-    stock_data = get_data()
-    # Create stocks from the data
-    for key in stock_data:
-        stock_data_dict.append(Stock(key, stock_data[key]))
+# Bollinger band constant
+k = 1.5
 
+# List that holds the data
+stock_data = get_data()
 
-def main():
-    init()
+# Create stock list from data
+stock_list = []
+for key in stock_data:
+    stock_list.append(Stock(key, stock_data[key], k))
 
-main()
+# Print calculated results
+for stock in stock_list:
+    print(stock)
