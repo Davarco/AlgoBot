@@ -8,7 +8,7 @@ start = 0
 num_days = 200
 
 # List that holds the data
-stock_data = get_data("../input/company_list.txt")
+stock_data = get_data("input/company_list.txt")
 
 # Create stock list from data
 stock_list = []

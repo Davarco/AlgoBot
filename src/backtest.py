@@ -5,7 +5,7 @@ from visualize import graph_historical
 # Constants
 k = 1.5
 num_days = 200
-time_span = 300
+time_span = 1000
 
 # List that holds the data
 stock_data = get_data("../input/company_backtest_list.txt")
@@ -16,7 +16,7 @@ stock_data_list = []
 # Go through backtest stocks
 for key in stock_data:
     temp = []
-    for start in range(0, time_span):
+    for start in range(time_span, 0, -1):
         temp.append(Stock(key, stock_data[key], k, start, num_days))
     stock_data_list.append(temp)
 
