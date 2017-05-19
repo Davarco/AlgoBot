@@ -8,7 +8,7 @@ num_days = 200
 time_span = 1000
 
 # List that holds the data
-stock_data = get_data("../input/company_backtest_list.txt")
+stock_data = get_data("input/company_backtest_list.txt")
 
 # 2d arr, arr holds list of stocks throughout time span, each arr is a different stock
 stock_data_list = []
