@@ -24,5 +24,6 @@ class Stock(object):
         self.mean_price = prices.mean()
         self.today_price = prices[0]
         self.deviation = prices.std()
+        # Calculate the upper and lower band
         self.upper_band = self.mean_price + k*self.deviation
         self.lower_band = self.mean_price - k*self.deviation
