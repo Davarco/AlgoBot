@@ -21,6 +21,7 @@ for key in stock_data:
     stock_dict_list.append(temp)
 
 # Go through all of the stock dictionaries
+print("Testing algorithm on historical stock data...")
 for stock_list in stock_dict_list:
     # Set if it should be buying (true) or selling (false), save results
     buy = True
@@ -44,8 +45,10 @@ for stock_list in stock_dict_list:
     percent = 0
     if not profit == 0:
         percent = stock_list[len(stock_list)-1].today_price/profit
-    print("Final (%s): %f; %.2f%% overall" % (ticker, profit, percent))
+    print("| %6s | %8.3f | %8.2f%% |" % (ticker, profit, percent), flush=True)
 
-# Graph the top three tickers' historical data
-stock_first_three = [stock_dict_list[0], stock_dict_list[1], stock_dict_list[2]]
-graph_historical(stock_first_three)
+# Don't need all the graphs
+# num_graphs = input("Number of graphs: ")
+num_graphs = 3
+temp_dict_list = [stock_dict_list[i] for i in range(0, int(num_graphs))]
+graph_historical(temp_dict_list)
