@@ -32,7 +32,7 @@ df = pd.DataFrame(columns=['Ticker', 'Profit', 'Percent', 'K'])
 path_dir = LOG + datetime.now().strftime("%d-%m-%Y")
 if not os.path.exists(path_dir):
     os.makedirs(path_dir)
-path = path_dir + "/" + datetime.now().strftime("%H:%M:%S")
+path = path_dir + "/" + datetime.now().strftime("%H-%M-%S")
 print(path)
 log = open(path, 'w')
 
