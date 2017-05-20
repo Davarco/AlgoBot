@@ -44,7 +44,8 @@ for stock_list in stock_dict_list:
     percent = 0
     if not profit == 0:
         percent = stock_list[len(stock_list)-1].today_price/profit
-    print("Final (%s): %f" % (ticker, profit))
+    print("Final (%s): %f; %.2f%% overall" % (ticker, profit, percent))
 
-# Graph the historical data
-graph_historical(stock_dict_list)
+# Graph the top three tickers' historical data
+stock_first_three = [stock_dict_list[0], stock_dict_list[1], stock_dict_list[2]]
+graph_historical(stock_first_three)
