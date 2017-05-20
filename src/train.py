@@ -41,7 +41,9 @@ for stock_list in stock_dict_list:
         if today >= upper and not buy:
             profit += (today - price)
             buy = True
-    percent = stock_list[len(stock_list)-1].today_price/profit
+    percent = 0
+    if not profit == 0:
+        percent = stock_list[len(stock_list)-1].today_price/profit
     print("Final (%s): %f" % (ticker, profit))
 
 # Graph the historical data
