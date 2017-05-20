@@ -3,9 +3,6 @@ import pandas
 import io
 import os
 
-# List of companies
-company_data_list = {}
-
 # Constants for downloading data
 CACHE = "cache"
 start_month = "Jan"
@@ -14,7 +11,10 @@ start_year = "2010"
 title_date = start_month + "-" + start_day + "-" + start_year
 
 
-def init(path):
+# Returns list of data (pandas dataframes)
+def retrieve(path):
+    # List of companies
+    company_data_list = {}
     company_list = open(path)
     print("Getting stock ticker list...")
     for name in company_list:
@@ -36,9 +36,4 @@ def init(path):
             data = pandas.read_csv(io.StringIO(raw_data.decode('utf-8')))
         # Create dictionary pair with the data
         company_data_list[name] = data
-
-
-# Returns list of data (pandas dataframes)
-def get_data(path):
-    init(path)
     return company_data_list
