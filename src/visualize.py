@@ -24,6 +24,7 @@ def graph_historical(stock_data_list):
         plt.xlabel("Day")
         plt.ylabel("Price")
         plt.title(stock[0].ticker + ": Simple Mean Reversion")
+        plt.gcf().canvas.set_window_title(stock[0].ticker + ": Simple Mean Reversion")
         # plt.ylim(ymin=0)
         plt.draw()
     plt.show()
