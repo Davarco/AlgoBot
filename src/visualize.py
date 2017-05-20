@@ -1,3 +1,5 @@
+from data import retrieve
+from stock import Stock
 import pylab as plt
 import pandas as pd
 
@@ -23,8 +25,32 @@ def graph_historical(stock_data_list):
         plt.plot(today_band.values[:, 0], today_band.values[:, 1], color="black")
         plt.xlabel("Day")
         plt.ylabel("Price")
-        plt.title(stock[0].ticker + ": Simple Mean Reversion")
+        plt.title(stock[0].ticker + ": Mean Reversion")
         plt.gcf().canvas.set_window_title(stock[0].ticker + ": Simple Mean Reversion")
         # plt.ylim(ymin=0)
         plt.draw()
     plt.show()
+
+
+def graph_historical_default():
+
+    # Constants
+    k = 1.5
+    num_days = 200
+    time_span = 1000
+
+    # List that holds the data
+    stock_data = retrieve("input/company_list.txt")
+
+    # 2d arr, arr holds list of stocks throughout time span, each arr is a different stock
+    stock_data_list = []
+
+    # Go through backtest stocks
+    for key in stock_data:
+        temp = []
+        for start in range(time_span, 0, -1):
+            temp.append(Stock(key, stock_data[key], k, start, num_days))
+        stock_data_list.append(temp)
+
+    # Graph the historical data
+    graph_historical(stock_data_list)
