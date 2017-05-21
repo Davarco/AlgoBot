@@ -11,6 +11,9 @@ num_days = 200
 time_span = 300
 LOG = "logs/"
 
+init_moneys = 2000
+moneys = init_moneys
+
 # List that holds the data
 stock_data = retrieve_list("input/companies/company_train_list.txt")
 
@@ -78,6 +81,9 @@ for stock_list in stock_dict_list:
             buy = True
         # Change to next day
         day += 1
+    # Calibrate moneys
+    moneys += profit
+    moneys -= total
     # Get the percent
     percent = 0
     if not profit == 0:
@@ -91,6 +97,14 @@ for stock_list in stock_dict_list:
 # Print the backtested data
 print(df)
 df.to_csv(path + ".csv")
+
+# Print moneys
+if moneys > init_moneys:
+    profit = moneys - init_moneys
+    print("Start: %s. End: %s. Net profit: %s" % (init_moneys, moneys, profit))
+if moneys < init_moneys:
+    profit = init_moneys - moneys
+    print("Start: %s. End: %s. Net loss: %s" % (init_moneys, moneys, profit))
 
 # Don't need all the graphs
 num_graphs = input("Graphs: ")

@@ -1,9 +1,7 @@
 import pandas as pd
 import numpy as np
 
-
 class Stock(object):
-
     ticker = ""
     k = 0
     num_days = 0

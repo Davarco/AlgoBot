@@ -3,7 +3,6 @@ from stock import Stock
 import pylab as plt
 import pandas as pd
 
-
 def graph_historical(stock_data_list):
     # Go through all of the stocks
     for stock in stock_data_list:
@@ -31,9 +30,7 @@ def graph_historical(stock_data_list):
         plt.draw()
     plt.show()
 
-
 def graph_historical_default():
-
     # Constants
     k = 1.5
     num_days = 200
