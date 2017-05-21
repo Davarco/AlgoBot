@@ -5,6 +5,7 @@ import pandas
 import io
 import os
 
+
 # Returns a single piece of data (pandas dataframes)
 def retrieve_single(ticker):
     # Constants for downloading data
@@ -31,6 +32,7 @@ def retrieve_single(ticker):
         data = pandas.read_csv(io.StringIO(raw_data.decode('utf-8')))
 
     return data
+
 
 # Returns list of data (pandas dataframes)
 def retrieve_list(path):
