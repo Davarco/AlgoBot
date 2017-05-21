@@ -11,7 +11,8 @@ num_days = 200
 time_span = 1000
 LOG = "logs/"
 
-moneys = 20000
+init_moneys = 20000
+moneys = init_moneys
 
 # List that holds the data
 stock_data = retrieve("input/companies/company_train_list.txt")
@@ -96,7 +97,12 @@ for stock_list in stock_dict_list:
 print(df)
 df.to_csv(path + ".csv")
 
-print("Started with 20,000 moneys. Final balance: %s" % moneys)
+if moneys > init_moneys:
+    profit = moneys - init_moneys
+    print("Start: %s. End: %s. Net profit: %s" % (init_moneys, moneys, profit))
+if moneys < init_moneys:
+    profit = init_moneys - moneys
+    print("Start: %s. End: %s. Net loss: %s" % (init_moneys, moneys, profit))
 
 # Don't need all the graphs
 num_graphs = input("Number of graphs: ")
