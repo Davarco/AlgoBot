@@ -1,5 +1,5 @@
 from stock import Stock
-from data import retrieve
+from data import retrieve_list
 from datetime import datetime
 from visualize import graph_historical
 import pandas as pd
@@ -8,11 +8,11 @@ import os
 # Constants
 k = 1.5
 num_days = 200
-time_span = 1000
+time_span = 300
 LOG = "logs/"
 
 # List that holds the data
-stock_data = retrieve("input/companies/company_train_list.txt")
+stock_data = retrieve_list("input/companies/company_train_list.txt")
 
 # 2d arr, arr holds list of stocks throughout time span, each arr is a different stock
 stock_dict_list = []
@@ -26,10 +26,10 @@ for key in stock_data:
     stock_dict_list.append(temp)
 
 # Prepare the pandas dataframe
-df = pd.DataFrame(columns=['Ticker', 'Profit', 'Percent', 'K'])
+df = pd.DataFrame(columns=['Ticker', 'Spent', 'Profit', 'Percent', 'K'])
 
 # Create a new log file
-path_dir = LOG + datetime.now().strftime("%d-%m-%Y")
+path_dir = LOG + datetime.now().strftime("%m-%d-%Y")
 if not os.path.exists(path_dir):
     os.makedirs(path_dir)
 path = path_dir + "/" + datetime.now().strftime("%H:%M:%S")
@@ -83,7 +83,7 @@ for stock_list in stock_dict_list:
     if not profit == 0:
         percent = profit/total*100
     # Save data
-    df.loc[row] = ['%5s' % ticker, '%8.3f' % profit, '%8.3f' % percent, '%4.1f' % k]
+    df.loc[row] = ['%5s' % ticker, '%8.3f' % total, '%8.3f' % profit, '%8.3f' % percent, '%4.1f' % k]
     # Increase the row
     row += 1
     log.write("\n")
@@ -93,8 +93,12 @@ print(df)
 df.to_csv(path + ".csv")
 
 # Don't need all the graphs
-num_graphs = input("Number of graphs: ")
-if num_graphs.lower() == "all":
-    num_graphs = len(stock_dict_list)
-temp_dict_list = [stock_dict_list[i] for i in range(0, int(num_graphs))]
+num_graphs = input("Graphs: ")
+if num_graphs.lower() != "profitable":
+    if num_graphs.lower() == "all":
+        num_graphs = len(stock_dict_list)
+    temp_dict_list = [stock_dict_list[i] for i in range(0, int(num_graphs))]
+else:
+    # Make sure something happened
+    temp_dict_list = [stock_dict_list[i] for i in range(0, len(stock_dict_list)) if float(df.values[i, 1]) != 0]
 graph_historical(temp_dict_list)

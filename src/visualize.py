@@ -1,4 +1,4 @@
-from data import retrieve
+from data import retrieve_list
 from stock import Stock
 import pylab as plt
 import pandas as pd
@@ -40,7 +40,7 @@ def graph_historical_default():
     time_span = 1000
 
     # List that holds the data
-    stock_data = retrieve("input/company_list.txt")
+    stock_data = retrieve_list("input/company_list.txt")
 
     # 2d arr, arr holds list of stocks throughout time span, each arr is a different stock
     stock_data_list = []

@@ -1,11 +1,42 @@
+from stock import Stock
+import numpy as np
 import requests
 import pandas
 import io
 import os
 
 
+# Returns a single piece of data (pandas dataframes)
+def retrieve_single(ticker):
+
+    # Constants for downloading data
+    cache = "cache"
+    start_month = "Jan"
+    start_day = "01"
+    start_year = "2010"
+    title_date = start_month + "-" + start_day + "-" + start_year
+
+    # Get the stock data from google finance
+    print("Getting stock ticker list...")
+    ticker = ticker.strip()
+    path = cache + "/" + ticker + "_" + title_date + ".csv"
+    if os.path.exists(path):
+        # print("Data already exists in cache.")
+        data = pandas.read_csv(path)
+    else:
+        # print("Data does not already exist, adding to cache.")
+        url = "https://www.google.com/finance/historical?q=NASDAQ:" + ticker + \
+              "&startdate=" + start_month + "+" + start_day + "%2C+" + start_year + "&output=csv"
+        raw_data = requests.get(url).content
+        with open(path, 'wb') as f:
+            f.write(raw_data)
+        data = pandas.read_csv(io.StringIO(raw_data.decode('utf-8')))
+
+    return data
+
+
 # Returns list of data (pandas dataframes)
-def retrieve(path):
+def retrieve_list(path):
 
     # Constants for downloading data
     cache = "cache"
@@ -47,21 +78,24 @@ def generate():
     # Constants
     k = 1.5
     num_days = 200
-    time_span = 1000
+    time_span = 300
 
     # List that holds the data
-    stock_data = retrieve("input/companies/company_train_list.txt")
+    stock_data = retrieve_list("input/companies/company_train_list.txt")
 
     # 2d arr, arr holds list of stocks throughout time span, each arr is a different stock
     stock_dict_list = []
 
-    # Go through backtest stocks
+    # Go through all the stocks
     print("Testing algorithm on historical stock data...")
-    for key in stock_data:
-        temp = []
-        for start in range(time_span, 0, -1):
-            temp.append(Stock(key, stock_data[key], k, start, num_days))
-        stock_dict_list.append(temp)
+    # Go through different values of K
+    const_arr = np.arange(1.0, 2.0, 0.05)
+    for k in const_arr:
+        for key in stock_data:
+            temp = []
+            for start in range(time_span, 0, -1):
+                temp.append(Stock(key, stock_data[key], k, start, num_days))
+            stock_dict_list.append(temp)
 
     # Create the csv file to be written to (k, percent)
     csv_name = "input/bollinger_constant.txt"
@@ -102,4 +136,4 @@ def generate():
         # percent = 0
         if not profit == 0:
             percent = profit / total * 100
-            csv.write(str(k) + "," + str(round(percent, 3)) + "\n")
+            csv.write(str(stock_list[0].k) + "," + str(round(percent, 3)) + "\n")

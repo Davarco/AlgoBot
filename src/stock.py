@@ -5,6 +5,7 @@ import numpy as np
 class Stock(object):
 
     ticker = ""
+    k = 0
     num_days = 0
     mean_price = 0
     today_price = 0
@@ -19,6 +20,7 @@ class Stock(object):
 
     def __init__(self, ticker, data, k, start, num_days):
         prices = np.array(data.iloc[start:start+num_days, 4].values)
+        self.k = k
         self.ticker = ticker
         self.num_days = num_days
         self.mean_price = prices.mean()
