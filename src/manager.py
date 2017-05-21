@@ -24,11 +24,14 @@ def __main__():
 
     buyables = []
 
-    stock_dict_list[-1].today_price = 5
+    stock_dict_list[-1].today_price = 20
     stock_dict_list[-1].today_lower_diff = stock_dict_list[-1].lower_band - stock_dict_list[-1].today_price
 
-    stock_dict_list[-2].today_price = 5
+    stock_dict_list[-2].today_price = 10
     stock_dict_list[-2].today_lower_diff = stock_dict_list[-2].lower_band - stock_dict_list[-2].today_price
+
+    stock_dict_list[-3].today_price = 5
+    stock_dict_list[-3].today_lower_diff = stock_dict_list[-3].lower_band - stock_dict_list[-3].today_price
 
     for stock in stock_dict_list:
         if stock.today_lower_diff > 0 and stock.today_price < moneys:
@@ -43,7 +46,10 @@ def __main__():
             if moneys <= 0:
                 break
             num = 0
-            while moneys > 0:
+
+            half_moneys = moneys / 2
+
+            while moneys > half_moneys:
                 moneys -= buyable.today_price
                 num += 1
 
