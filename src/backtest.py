@@ -11,6 +11,8 @@ num_days = 200
 time_span = 1000
 LOG = "logs/"
 
+moneys = 20000
+
 # List that holds the data
 stock_data = retrieve("input/companies/company_train_list.txt")
 
@@ -61,6 +63,7 @@ for stock_list in stock_dict_list:
         if today <= lower and buy:
             log.write("%-12s %-12s %-8.3f \n%-12s %-12s %-4.0f" % ("Buying!", "@price", today, "", "@day", day) + "\n")
             price += today
+            moneys -= today
             total += today
             num += 1
             buy = False
@@ -74,6 +77,7 @@ for stock_list in stock_dict_list:
             log.write("%-12s %-12s %-8.3f \n%-12s %-12s %-4.0f \n%-12s %-12s %-8.3f \n%-12s %-12s %-2s"
                       % ("Selling!", "@price", today, "", "@day", day, "", "@num_shares", profit, "", "@price", num) + "\n")
             num = 0
+            moneys += price
             price = 0
             buy = True
         # Change to next day
@@ -91,6 +95,8 @@ for stock_list in stock_dict_list:
 # Print the backtested data
 print(df)
 df.to_csv(path + ".csv")
+
+print("Started with 20,000 moneys. Final balance: %s" % moneys)
 
 # Don't need all the graphs
 num_graphs = input("Number of graphs: ")
