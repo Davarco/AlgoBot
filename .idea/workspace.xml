@@ -2,24 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58ee573e-db87-4b5c-b3f8-326ecc9b37d7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/AAPL_Jan-01-2010.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/AMZN_Jan-01-2010.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/COST_Jan-01-2010.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CSCO_Jan-01-2010.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/EBAY_Jan-01-2010.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/GOOG_Jan-01-2010.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/INTC_Jan-01-2010.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/MSFT_Jan-01-2010.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/NVDA_Jan-01-2010.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ORCL_Jan-01-2010.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/QCOM_Jan-01-2010.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/SPLS_Jan-01-2010.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/UAL_Jan-01-2010.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/YHOO_Jan-01-2010.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/train.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/backtest.py" afterPath="$PROJECT_DIR$/src/backtest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/input/companies/company_train_list.txt" afterPath="$PROJECT_DIR$/input/companies/company_train_list.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/manager.py" afterPath="$PROJECT_DIR$/src/manager.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/stock.py" afterPath="$PROJECT_DIR$/src/stock.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -57,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="company_list.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/input/companies/company_list.txt">
+      <file leaf-file-name="company_train_list.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/input/companies/company_train_list.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="234">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <caret line="13" column="3" lean-forward="false" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -70,8 +56,8 @@
       <file leaf-file-name="stock.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/stock.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="240">
+              <caret line="32" column="66" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="66" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -92,11 +78,11 @@
       <file leaf-file-name="manager.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/manager.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="88" column="0" lean-forward="true" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+            <state relative-caret-position="248">
+              <caret line="92" column="29" lean-forward="true" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="29" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
-                <element signature="e#318#1464#0" expanded="false" />
+                <element signature="e#316#1462#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -130,10 +116,11 @@
         <option value="$PROJECT_DIR$/src/consult.py" />
         <option value="$PROJECT_DIR$/src/api.py" />
         <option value="$PROJECT_DIR$/src/main.py" />
-        <option value="$PROJECT_DIR$/src/stock.py" />
         <option value="$PROJECT_DIR$/src/visualize.py" />
         <option value="$PROJECT_DIR$/src/backtest.py" />
         <option value="$PROJECT_DIR$/src/data.py" />
+        <option value="$PROJECT_DIR$/src/stock.py" />
+        <option value="$PROJECT_DIR$/input/companies/company_train_list.txt" />
         <option value="$PROJECT_DIR$/src/manager.py" />
       </list>
     </option>
@@ -211,6 +198,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="input" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MarketLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MarketLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="input" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="companies" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -452,16 +457,24 @@
       <option name="presentableId" value="Default" />
       <updated>1495340446463</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Decided no trained, so removed train.py; split backtest into two methods; manager.py should work for 1000 days.">
+      <created>1495341283527</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1495341283527</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="228" y="182" width="1346" height="728" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25185734" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2511144" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3216" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -505,7 +518,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Screw PEP8, don't currently need a main.py, added manager.py" />
     <MESSAGE value="Jk, David &lt;3 PEP8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jk, David &lt;3 PEP8" />
+    <MESSAGE value="Decided no trained, so removed train.py; split backtest into two methods; manager.py should work for 1000 days." />
+    <option name="LAST_COMMIT_MESSAGE" value="Decided no trained, so removed train.py; split backtest into two methods; manager.py should work for 1000 days." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -536,13 +550,6 @@
     <entry file="file://$PROJECT_DIR$/src/yahoo/data_wrangler.py" />
     <entry file="file://$PROJECT_DIR$/src/yahoo/stock.py" />
     <entry file="file://$PROJECT_DIR$/input/companies/company_backtest_list.txt" />
-    <entry file="file://$PROJECT_DIR$/input/companies/company_train_list.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/log/19-05-2017/23:29:03" />
     <entry file="file://$PROJECT_DIR$/logs/19-05-2017/23:32:21" />
     <entry file="file://$PROJECT_DIR$/logs/19-05-2017/23:33:33" />
@@ -568,32 +575,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main.py" />
-    <entry file="file://$PROJECT_DIR$/input/companies/company_list.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/visualize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/api.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -609,16 +590,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/backtest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-          <folding>
-            <element signature="e#378#1992#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/data.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -631,13 +602,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/visualize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="32" column="66" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="66" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/companies/company_list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding>
+            <element signature="e#378#1992#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/companies/company_train_list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="3" lean-forward="false" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/manager.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="88" column="0" lean-forward="true" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+        <state relative-caret-position="248">
+          <caret line="92" column="29" lean-forward="true" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="29" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
-            <element signature="e#318#1464#0" expanded="false" />
+            <element signature="e#316#1462#0" expanded="false" />
           </folding>
         </state>
       </provider>
