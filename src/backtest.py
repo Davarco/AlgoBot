@@ -64,7 +64,6 @@ for stock_list in stock_dict_list:
         if today <= lower and buy:
             log.write("%-12s %-12s %-8.3f \n%-12s %-12s %-4.0f" % ("Buying!", "@price", today, "", "@day", day) + "\n")
             price += today
-            moneys -= today
             total += today
             num += 1
             buy = False
@@ -78,11 +77,11 @@ for stock_list in stock_dict_list:
             log.write("%-12s %-12s %-8.3f \n%-12s %-12s %-4.0f \n%-12s %-12s %-8.3f \n%-12s %-12s %-2s"
                       % ("Selling!", "@price", today, "", "@day", day, "", "@num_shares", profit, "", "@price", num) + "\n")
             num = 0
-            moneys += price
             price = 0
             buy = True
         # Change to next day
         day += 1
+    moneys += profit
     # Get the percent
     percent = 0
     if not profit == 0:
