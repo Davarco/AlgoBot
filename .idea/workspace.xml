@@ -2,164 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58ee573e-db87-4b5c-b3f8-326ecc9b37d7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:35:17" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:36:05" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/AAL_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ADBE_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ADI_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ADP_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ADSK_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/AKAM_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ALXN_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/AMAT_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/AMGN_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ATVI_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/AVGO_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/BABA_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/BIDU_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/BIIB_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/BMRN_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/BP_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CA_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CELG_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CERN_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CHKP_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CHTR_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CMCSA_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CSX_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CTAS_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CTRP_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CTSH_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CTXS_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/DISCA_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/DISCK_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/DISH_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/DLTR_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/EA_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ESRX_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/EXPE_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/FAST_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/FB_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/FISV_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/FOXA_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/FOX_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/GILD_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/GOOGL_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/HAS_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/HDP_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/HOLX_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/HSIC_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/IDXX_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ILMN_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/INCY_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/INTU_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ISRG_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/JBHT_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/JD_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/KHC_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/KLAC_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/LBTYA_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/LBTYK_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/LILAK_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/LILA_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/LRCX_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/LVNTA_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/MAR_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/MAT_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/MCHP_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/MDLZ_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/MNKD_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/MNST_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/MU_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/MXIM_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/MYL_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/NCLH_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/NFLX_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/NTES_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ORLY_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/PAYX_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/PCAR_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/PCLN_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/PYPL_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/QVCA_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/REGN_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ROST_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/SBUX_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/SHPG_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/SIRI_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/STX_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/SWKS_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/SYMC_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/TMUS_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/TSCO_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/TSLA_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/TXN_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ULTA_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/VIAB_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/VOD_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/VRSK_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/VRTX_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/WBA_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/WDC_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/WYNN_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/XLNX_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/XRAY_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ZNGA_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/companies/complete.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/20:29:42" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/20:29:42.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/20:30:29" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/20:30:29.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:34:04" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:34:04.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:35:17.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:36:05.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:36:32" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:36:32.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:40:12" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:40:12.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:41:51" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:41:51.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:42:00" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:42:00.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:43:05" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:43:05.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:51:49" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:51:49.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:58:28" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:58:28.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:21:55" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:21:55.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:27:08" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:27:08.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:27:23" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:27:23.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:27:38" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:27:38.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:28:44" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:28:44.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:30:13" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:30:13.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:30:23" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:30:23.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:30:32" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:30:32.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:30:41" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:30:41.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:30:49" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:30:49.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:31:10" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:31:10.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:31:36" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:31:36.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-21-2017/22:45:08" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-21-2017/22:45:08.csv" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/input/companies/company_train_list.txt" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/input/companies/company_list.txt" afterPath="$PROJECT_DIR$/input/companies/custom.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/api.py" afterPath="$PROJECT_DIR$/src/api.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/backtest.py" afterPath="$PROJECT_DIR$/src/backtest.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/data.py" afterPath="$PROJECT_DIR$/src/data.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/stock.py" afterPath="$PROJECT_DIR$/src/stock.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/visualize.py" afterPath="$PROJECT_DIR$/src/visualize.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -172,11 +16,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="data.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="data.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+            <state relative-caret-position="342">
+              <caret line="64" column="12" lean-forward="false" selection-start-line="64" selection-start-column="12" selection-end-line="64" selection-end-column="12" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -197,7 +41,7 @@
       <file leaf-file-name="backtest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/backtest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
+            <state relative-caret-position="3260">
               <caret line="163" column="0" lean-forward="false" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
@@ -209,8 +53,8 @@
       <file leaf-file-name="stock.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/stock.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="262">
+              <caret line="22" column="41" lean-forward="false" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -218,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="visualize.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="visualize.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/visualize.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="82">
-              <caret line="42" column="48" lean-forward="false" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
+            <state relative-caret-position="680">
+              <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -243,7 +87,7 @@
       <file leaf-file-name="api.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="160">
               <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
@@ -270,15 +114,15 @@
         <option value="$PROJECT_DIR$/input/company_list.txt" />
         <option value="$PROJECT_DIR$/input/company_backtest_list.txt" />
         <option value="$PROJECT_DIR$/src/train.py" />
-        <option value="$PROJECT_DIR$/src/stock.py" />
         <option value="$PROJECT_DIR$/src/main.py" />
         <option value="$PROJECT_DIR$/src/consult.py" />
         <option value="$PROJECT_DIR$/src/api.py" />
         <option value="$PROJECT_DIR$/input/companies/custom.txt" />
         <option value="$PROJECT_DIR$/input/companies/company_train_list.txt" />
         <option value="$PROJECT_DIR$/src/backtest.py" />
-        <option value="$PROJECT_DIR$/src/data.py" />
         <option value="$PROJECT_DIR$/src/visualize.py" />
+        <option value="$PROJECT_DIR$/src/stock.py" />
+        <option value="$PROJECT_DIR$/src/data.py" />
       </list>
     </option>
   </component>
@@ -591,8 +435,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="27" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553419" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553419" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -692,16 +537,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/input/companies/custom.txt" />
     <entry file="file://$PROJECT_DIR$/cache/CMCSA_Jan-01-2010.csv">
       <provider selected="true" editor-type-id="text-editor">
@@ -715,16 +550,6 @@
         <state relative-caret-position="469">
           <caret line="720" column="14" lean-forward="true" selection-start-line="720" selection-start-column="14" selection-end-line="720" selection-end-column="14" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -744,10 +569,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data.py">
+    <entry file="file://$PROJECT_DIR$/input/companies/complete.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+        <state relative-caret-position="851">
+          <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/visualize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="22" column="41" lean-forward="false" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3260">
+          <caret line="163" column="0" lean-forward="false" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
@@ -762,39 +633,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/input/companies/complete.txt">
+    <entry file="file://$PROJECT_DIR$/src/data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="851">
-          <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/backtest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="163" column="0" lean-forward="false" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
+        <state relative-caret-position="342">
+          <caret line="64" column="12" lean-forward="false" selection-start-line="64" selection-start-column="12" selection-end-line="64" selection-end-column="12" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/visualize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="42" column="48" lean-forward="false" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>

@@ -19,6 +19,8 @@ class Stock(object):
                "\nToday Price: " + str(self.today_price) + "\nDays: " + str(self.num_days)
 
     def __init__(self, ticker, data, k, start, num_days):
+
+        # Use numpy array to get features
         prices = np.array(data.iloc[start:start+num_days, 4].values)
         self.k = k
         self.ticker = ticker
@@ -26,6 +28,7 @@ class Stock(object):
         self.mean_price = prices.mean()
         self.today_price = prices[0]
         self.deviation = prices.std()
+
         # Calculate the upper and lower band
         self.upper_band = self.mean_price + k*self.deviation
         self.lower_band = self.mean_price - k*self.deviation
