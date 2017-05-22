@@ -13,6 +13,7 @@ class Stock(object):
     upper_band = 0
     lower_band = 0
     today_lower_diff = 0
+    today_upper_diff = 0
 
     def __str__(self):
         return "\nTicker: " + self.ticker + "\nStd Deviation: " + str(self.deviation) + "\nMean Price: " + str(self.mean_price) + \
@@ -31,3 +32,4 @@ class Stock(object):
         self.upper_band = self.mean_price + k*self.deviation
         self.lower_band = self.mean_price - k*self.deviation
         self.today_lower_diff = self.lower_band - self.today_price
+        self.today_upper_diff = self.today_price - self.upper_band
