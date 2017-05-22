@@ -2,9 +2,167 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58ee573e-db87-4b5c-b3f8-326ecc9b37d7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/MarketLearning.iml" afterPath="$PROJECT_DIR$/.idea/MarketLearning.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:35:17" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:36:05" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/AAL_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ADBE_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ADI_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ADP_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ADSK_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/AKAM_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ALXN_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/AMAT_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/AMGN_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ATVI_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/AVGO_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/BABA_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/BIDU_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/BIIB_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/BMRN_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/BP_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CA_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CELG_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CERN_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CHKP_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CHTR_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CMCSA_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CSX_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CTAS_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CTRP_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CTSH_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CTXS_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/DISCA_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/DISCK_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/DISH_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/DLTR_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/EA_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ESRX_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/EXPE_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/FAST_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/FB_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/FISV_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/FOXA_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/FOX_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/GILD_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/GOOGL_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/HAS_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/HDP_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/HOLX_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/HSIC_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/IDXX_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ILMN_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/INCY_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/INTU_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ISRG_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/JBHT_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/JD_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/KHC_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/KLAC_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/LBTYA_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/LBTYK_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/LILAK_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/LILA_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/LRCX_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/LVNTA_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/MAR_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/MAT_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/MCHP_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/MDLZ_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/MNKD_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/MNST_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/MU_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/MXIM_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/MYL_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/NCLH_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/NFLX_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/NTES_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ORLY_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/PAYX_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/PCAR_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/PCLN_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/PYPL_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/QVCA_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/REGN_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ROST_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/SBUX_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/SHPG_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/SIRI_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/STX_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/SWKS_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/SYMC_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/TMUS_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/TSCO_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/TSLA_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/TXN_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ULTA_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/VIAB_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/VOD_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/VRSK_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/VRTX_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/WBA_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/WDC_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/WYNN_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/XLNX_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/XRAY_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ZNGA_Jan-01-2010.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/input/companies/complete.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/20:29:42" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/20:29:42.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/20:30:29" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/20:30:29.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:34:04" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:34:04.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:35:17.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:36:05.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:36:32" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:36:32.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:40:12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:40:12.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:41:51" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:41:51.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:42:00" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:42:00.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:43:05" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:43:05.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:51:49" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:51:49.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:58:28" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/21:58:28.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:21:55" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:21:55.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:27:08" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:27:08.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:27:23" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:27:23.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:27:38" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:27:38.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:28:44" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:28:44.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:30:13" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:30:13.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:30:23" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:30:23.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:30:32" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:30:32.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:30:41" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:30:41.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:30:49" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:30:49.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:31:10" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:31:10.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:31:36" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-20-2017/22:31:36.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-21-2017/22:45:08" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-21-2017/22:45:08.csv" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input/companies/company_train_list.txt" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/input/companies/company_list.txt" afterPath="$PROJECT_DIR$/input/companies/custom.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/api.py" afterPath="$PROJECT_DIR$/src/api.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/backtest.py" afterPath="$PROJECT_DIR$/src/backtest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/data.py" afterPath="$PROJECT_DIR$/src/data.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/visualize.py" afterPath="$PROJECT_DIR$/src/visualize.py" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +175,8 @@
       <file leaf-file-name="data.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2780">
-              <caret line="139" column="0" lean-forward="false" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
+            <state relative-caret-position="442">
+              <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -26,7 +184,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="train.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="train.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/train.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -39,8 +197,8 @@
       <file leaf-file-name="backtest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/backtest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="87" column="12" lean-forward="true" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="12" />
+            <state relative-caret-position="442">
+              <caret line="163" column="0" lean-forward="false" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -51,8 +209,8 @@
       <file leaf-file-name="stock.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/stock.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            <state relative-caret-position="342">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -60,11 +218,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="visualize.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="visualize.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/visualize.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="82">
+              <caret line="42" column="48" lean-forward="false" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -74,7 +232,7 @@
         <entry file="file://$PROJECT_DIR$/src/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -85,9 +243,11 @@
       <file leaf-file-name="api.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="120">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -110,13 +270,15 @@
         <option value="$PROJECT_DIR$/input/company_list.txt" />
         <option value="$PROJECT_DIR$/input/company_backtest_list.txt" />
         <option value="$PROJECT_DIR$/src/train.py" />
-        <option value="$PROJECT_DIR$/src/visualize.py" />
         <option value="$PROJECT_DIR$/src/stock.py" />
-        <option value="$PROJECT_DIR$/src/data.py" />
         <option value="$PROJECT_DIR$/src/main.py" />
         <option value="$PROJECT_DIR$/src/consult.py" />
         <option value="$PROJECT_DIR$/src/api.py" />
+        <option value="$PROJECT_DIR$/input/companies/custom.txt" />
+        <option value="$PROJECT_DIR$/input/companies/company_train_list.txt" />
         <option value="$PROJECT_DIR$/src/backtest.py" />
+        <option value="$PROJECT_DIR$/src/data.py" />
+        <option value="$PROJECT_DIR$/src/visualize.py" />
       </list>
     </option>
   </component>
@@ -141,113 +303,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="logs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="19-05-2017" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="logs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="input" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="input" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="companies" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cache" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -288,6 +343,63 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MarketLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MarketLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MarketLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MarketLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MarketLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MarketLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="logs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MarketLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MarketLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="input" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -305,7 +417,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.visualize">
     <configuration default="false" name="backtest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -424,15 +536,34 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <list size="3">
+    <configuration default="false" name="visualize" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="MarketLearning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/visualize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.train" />
-      <item index="1" class="java.lang.String" itemvalue="Python.backtest" />
-      <item index="2" class="java.lang.String" itemvalue="Python.main" />
+      <item index="1" class="java.lang.String" itemvalue="Python.visualize" />
+      <item index="2" class="java.lang.String" itemvalue="Python.backtest" />
+      <item index="3" class="java.lang.String" itemvalue="Python.main" />
     </list>
     <recent_temporary>
       <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.main" />
-        <item index="1" class="java.lang.String" itemvalue="Python.backtest" />
+        <item index="0" class="java.lang.String" itemvalue="Python.backtest" />
+        <item index="1" class="java.lang.String" itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -440,15 +571,31 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58ee573e-db87-4b5c-b3f8-326ecc9b37d7" name="Default" comment="" />
+      <created>1495431828593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1495431828593</updated>
+    </task>
     <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="27" width="1920" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25213677" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553419" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -462,7 +609,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -496,10 +642,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/yahoo/data_wrangler.py" />
-    <entry file="file://$PROJECT_DIR$/src/yahoo/main.py" />
-    <entry file="file://$PROJECT_DIR$/src/yahoo/data_wrangler.py" />
-    <entry file="file://$PROJECT_DIR$/src/yahoo/main.py" />
     <entry file="file://$PROJECT_DIR$/src/yahoo/main.py" />
     <entry file="file://$PROJECT_DIR$/src/yahoo/main.py" />
     <entry file="file://$PROJECT_DIR$/src/yahoo/main.py" />
@@ -519,20 +661,6 @@
     <entry file="file://$PROJECT_DIR$/src/yahoo/data_wrangler.py" />
     <entry file="file://$PROJECT_DIR$/src/yahoo/stock.py" />
     <entry file="file://$PROJECT_DIR$/input/companies/company_backtest_list.txt" />
-    <entry file="file://$PROJECT_DIR$/input/companies/company_list.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/input/companies/company_train_list.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/log/19-05-2017/23:29:03" />
     <entry file="file://$PROJECT_DIR$/logs/19-05-2017/23:32:21" />
     <entry file="file://$PROJECT_DIR$/logs/19-05-2017/23:33:33" />
@@ -557,26 +685,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2780">
-          <caret line="139" column="0" lean-forward="false" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/logs/19-05-2017/23:56:03">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-491">
@@ -584,36 +692,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/visualize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/backtest.py">
+    <entry file="file://$PROJECT_DIR$/input/companies/custom.txt" />
+    <entry file="file://$PROJECT_DIR$/cache/CMCSA_Jan-01-2010.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="87" column="12" lean-forward="true" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-36691">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/05-21-2017/22:58:33">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="720" column="14" lean-forward="true" selection-start-line="720" selection-start-column="14" selection-end-line="720" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/05-21-2017/23:11:36">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13951">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/companies/custom.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="4" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
@@ -624,6 +758,42 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/companies/complete.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="851">
+          <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/backtest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="163" column="0" lean-forward="false" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/visualize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="42" column="48" lean-forward="false" selection-start-line="42" selection-start-column="48" selection-end-line="42" selection-end-column="48" />
           <folding />
         </state>
       </provider>

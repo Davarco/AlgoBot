@@ -40,7 +40,7 @@ def graph_historical_default():
     time_span = 1000
 
     # List that holds the data
-    stock_data = retrieve_list("input/company_list.txt")
+    stock_data = retrieve_list("input/companies/custom.txt")
 
     # 2d arr, arr holds list of stocks throughout time span, each arr is a different stock
     stock_data_list = []
@@ -54,3 +54,7 @@ def graph_historical_default():
 
     # Graph the historical data
     graph_historical(stock_data_list)
+
+
+if __name__ == '__main__':
+    graph_historical_default()
