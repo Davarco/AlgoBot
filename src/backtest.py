@@ -102,7 +102,7 @@ def main():
     path_dir = LOG + datetime.now().strftime("%m-%d-%Y")
     if not os.path.exists(path_dir):
         os.makedirs(path_dir)
-    path = path_dir + "/" + datetime.now().strftime("%H:%M:%S")
+    path = path_dir + "/" + datetime.now().strftime("%H_%M_%S")
     print(path)
     log = open(path, 'w')
 

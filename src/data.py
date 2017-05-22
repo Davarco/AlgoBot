@@ -62,7 +62,7 @@ def retrieve_list(path):
             with open(path, 'wb') as f:
                 f.write(raw_data)
             data = pandas.read_csv(io.StringIO(raw_data.decode('utf-8')))
-            
+
         # Create dictionary pair with the data
         company_data_list[name] = data
 
