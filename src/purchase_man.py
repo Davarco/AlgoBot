@@ -51,9 +51,10 @@ def __main__():
             spent -= buy.today_price
             num -= 1
 
-        print("Buy %s stocks from ticker %s. Today's price is %.2f moneys, and you have %.2f moneys. "
-              "You will have %.2f moneys left." %
-              (num, buy.ticker, buy.today_price, before_spending, moneys))
+        if num > 0:
+            print("Buy %s stocks from ticker %s. Today's price is %.2f moneys, and you have %.2f moneys. "
+                  "You will have %.2f moneys left." %
+                  (num, buy.ticker, buy.today_price, before_spending, moneys))
 
         print()
         print("SECOND STOCK -- SPENDING 25% MONEYS")
@@ -80,9 +81,10 @@ def __main__():
             spent -= buy.today_price
             num -= 1
 
-        print("Buy %s stocks from ticker %s. Today's price is %.2f moneys, and you have %.2f moneys. "
-              "You will have %.2f moneys left." %
-              (num, buy.ticker, buy.today_price, before_spending, moneys))
+        if num > 0:
+            print("Buy %s stocks from ticker %s. Today's price is %.2f moneys, and you have %.2f moneys. "
+                  "You will have %.2f moneys left." %
+                  (num, buy.ticker, buy.today_price, before_spending, moneys))
 
         print()
         print("THIRD STOCK -- SPENDING 25% MONEYS")
@@ -109,9 +111,10 @@ def __main__():
             spent -= buy.today_price
             num -= 1
 
-        print("Buy %s stocks from ticker %s. Today's price is %.2f moneys, and you have %.2f moneys. "
-              "You will have %.2f moneys left." %
-              (num, buy.ticker, buy.today_price, before_spending, moneys))
+        if num > 0:
+            print("Buy %s stocks from ticker %s. Today's price is %.2f moneys, and you have %.2f moneys. "
+                  "You will have %.2f moneys left." %
+                  (num, buy.ticker, buy.today_price, before_spending, moneys))
 
         init_moneys = moneys
 
@@ -132,9 +135,10 @@ def __main__():
                 moneys += buyable.today_price
                 num -= 1
 
-            print("Buy %s stocks from ticker %s. Today's price is %.2f moneys, and you have %.2f moneys. "
-                  "You will have %.2f moneys left." %
-                  (num, buyable.ticker, buyable.today_price, init_moneys, moneys))
+            if num > 0:
+                print("Buy %s stocks from ticker %s. Today's price is %.2f moneys, and you have %.2f moneys. "
+                      "You will have %.2f moneys left." %
+                      (num, buyable.ticker, buyable.today_price, init_moneys, moneys))
 
             init_moneys = moneys
 
