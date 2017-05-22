@@ -1,5 +1,3 @@
-from stock import Stock
-import numpy as np
 import requests
 import pandas
 import io
