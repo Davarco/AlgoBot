@@ -119,27 +119,29 @@ def __main__():
         init_moneys = moneys
 
         print()
-        print("FURTHER STOCKS -- SPENDING AS MUCH MONEYS AS POSSIBLE")
-        for i in range(3, buyables.__len__()):
-            if moneys < 1:
-                break
+        print("Done! Keep the remainder of your money.")
 
-            buyable = buyables[i]
-            num = 0
-
-            while moneys > 0:
-                moneys -= buyable.today_price
-                num += 1
-
-            if moneys < 0:
-                moneys += buyable.today_price
-                num -= 1
-
-            if num > 0:
-                print("Buy %s stocks from ticker %s. Today's price is %.2f moneys, and you have %.2f moneys. "
-                      "You will have %.2f moneys left." %
-                      (num, buyable.ticker, buyable.today_price, init_moneys, moneys))
-
-            init_moneys = moneys
+        # print("FURTHER STOCKS -- SPENDING AS MUCH MONEYS AS POSSIBLE")
+        # for i in range(3, buyables.__len__()):
+        #     if moneys < 1:
+        #         break
+        #
+        #     buyable = buyables[i]
+        #     num = 0
+        #
+        #     while moneys > 0:
+        #         moneys -= buyable.today_price
+        #         num += 1
+        #
+        #     if moneys < 0:
+        #         moneys += buyable.today_price
+        #         num -= 1
+        #
+        #     if num > 0:
+        #         print("Buy %s stocks from ticker %s. Today's price is %.2f moneys, and you have %.2f moneys. "
+        #               "You will have %.2f moneys left." %
+        #               (num, buyable.ticker, buyable.today_price, init_moneys, moneys))
+        #
+        #     init_moneys = moneys
 
 __main__()
