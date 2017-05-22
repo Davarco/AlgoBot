@@ -147,10 +147,12 @@ def main():
         num_graphs = len(stock_dict_list)
         temp_dict_list = [stock_dict_list[i] for i in range(0, int(num_graphs))]
 
+
     else:
 
-        # Get the correct number of graphs
-        temp_dict_list = [stock_dict_list[i] for i in range(0, int(num_graphs))]
+        temp_dict_list = [stock_dict_list[i] for i in  range(0, len(stock_dict_list)) if stock_dict_list[i][0].ticker==num_graphs.upper()]
+        #  Get the correct number of graphs
+        # temp_dict_list = [stock_dict_list[i] for i in range(0, int(num_graphs))]
 
     graph_historical(temp_dict_list)
 
