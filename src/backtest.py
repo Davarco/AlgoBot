@@ -149,8 +149,16 @@ def main():
 
     else:
 
-        # Get the correct number of graphs
-        temp_dict_list = [stock_dict_list[i] for i in range(0, int(num_graphs))]
+        #  Get the correct number of graphs OR graphs that are requested
+        try:
+            temp_dict_list = [stock_dict_list[i] for i in range(0, int(num_graphs))]
+        except:
+            requests = num_graphs.split(",")
+            for i in range(0, len(requests)):
+                requests[i] = requests[i].upper().strip()
+
+            temp_dict_list = [stock_dict_list[i] for i in range(0, len(stock_dict_list)) if
+                              stock_dict_list[i][0].ticker in requests]
 
     graph_historical(temp_dict_list)
 
