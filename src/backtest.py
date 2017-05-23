@@ -2,6 +2,7 @@ from stock import Stock
 from data import retrieve_list
 from datetime import datetime
 from visualize import graph_historical
+from visualize import graph_historical_single
 import pandas as pd
 import numpy as np
 import os
@@ -79,6 +80,7 @@ def backtest(stock_dict_list, log):
         # Increase the row
         row += 1
         log.write("\n")
+
     return df
 
 
@@ -103,8 +105,8 @@ def main():
     if not os.path.exists(path_dir):
         os.makedirs(path_dir)
     path = path_dir + "/" + datetime.now().strftime("%H_%M_%S")
-    print(path)
-    log = open(path, 'w')
+    print(path + ".txt")
+    log = open(path + ".txt", 'w')
 
     # Get the dataframe from the backtest
     df = backtest(stock_dict_list, log)
@@ -147,10 +149,27 @@ def main():
         num_graphs = len(stock_dict_list)
         temp_dict_list = [stock_dict_list[i] for i in range(0, int(num_graphs))]
 
+    elif num_graphs.lower() == "max":
+
+        # Get the most profitable
+        max_stock = stock_dict_list[0]
+        max_percent = 0.0
+        for i in range(0, len(stock_dict_list)):
+            if float(df.values[i, 3]) > max_percent:
+                max_percent = float(df.values[i, 3])    
+                max_stock = stock_dict_list[i]
+
+        # Print the max percent
+        print("Max percent: " + str(max_percent))
+
+        # Only graph one stock
+        graph_historical_single(max_stock)
+        return
+
     else:
 
         # Get the correct number of graphs
-        temp_dict_list = [stock_dict_list[i] for i in range(0, int(num_graphs))]
+        temp_dict_list = [stock_dict_list[i] for i in range(0, int(num_graphs)) if stock_dict_list[i].ticker == num_graphs.upper()]
 
     graph_historical(temp_dict_list)
 
