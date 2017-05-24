@@ -1,4 +1,4 @@
-from flask import Flask, request
+from flask import Flask
 from flask_restful import Resource, Api
 from data import retrieve_list
 from stock import Stock
@@ -45,8 +45,8 @@ class SellOrder(Resource):
         # return {"data": stock.__dict__}
         return {"data_count": len(sell_json), "data": sell_json}
 
-api.add_resource(BuyOrder, '/buy')
-api.add_resource(SellOrder, '/sell')
+api.add_resource(BuyOrder, '/stocks/buy')
+api.add_resource(SellOrder, '/stocks/sell')
 
 if __name__ == '__main__':
     app.run(debug=True)

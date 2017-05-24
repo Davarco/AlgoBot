@@ -2,6 +2,7 @@ from stock import Stock
 from data import retrieve_list
 from datetime import datetime
 from visualize import graph_historical
+from visualize import graph_historical_single
 import pandas as pd
 import numpy as np
 import os
@@ -9,7 +10,7 @@ import os
 # Constants
 k = 1.2
 num_days = 200
-time_span = 100
+time_span = 200
 LOG = "logs/"
 
 
@@ -23,11 +24,13 @@ def backtest(stock_dict_list, log):
 
         # Set if it should be buying (true) or selling (false), save results
         buy = True
+        sell = False
+        prev = 0
         profit = 0
         price = 0
         total = 0
         num = 0
-        day = 0
+        day = 1
         ticker = stock_list[0].ticker
 
         # Write title to log file
@@ -35,7 +38,7 @@ def backtest(stock_dict_list, log):
         log.write(ticker + "\n")
         log.write("-" * len(ticker) + "\n")
 
-        # Go through all the stocks
+        # Go through all the stocks, each iteration represents one day
         for stock in stock_list:
 
             # Get bands and current price
@@ -56,14 +59,22 @@ def backtest(stock_dict_list, log):
                 log.write("%-12s" % "Resetting!" + "\n")
                 buy = True
 
+            # Allow selling after the first day the stock goes down
+            if today > prev:
+                sell = True
+
+            # Set the previous to today
+            prev = today
+
             # Sell stock if price is higher than upper band
-            if today >= upper and num != 0:
+            if today >= upper and num != 0 and sell:
                 profit += (today*num - price)
                 log.write("%-12s %-12s %-8.3f \n%-12s %-12s %-4.0f \n%-12s %-12s %-8.3f \n%-12s %-12s %-2s"
-                          % ("Selling!", "@price", today, "", "@day", day, "", "@num_shares", profit, "", "@price", num) + "\n")
+                          % ("Selling!", "@price", today, "", "@day", day, "", "@num_shares", num, "", "@profit", profit) + "\n")
                 num = 0
                 price = 0
                 buy = True
+                sell = False
 
             # Change to next day
             day += 1
@@ -79,6 +90,7 @@ def backtest(stock_dict_list, log):
         # Increase the row
         row += 1
         log.write("\n")
+
     return df
 
 
@@ -103,8 +115,8 @@ def main():
     if not os.path.exists(path_dir):
         os.makedirs(path_dir)
     path = path_dir + "/" + datetime.now().strftime("%H_%M_%S")
-    print(path)
-    log = open(path, 'w')
+    print(path + ".txt")
+    log = open(path + ".txt", 'w')
 
     # Get the dataframe from the backtest
     df = backtest(stock_dict_list, log)
@@ -147,18 +159,27 @@ def main():
         num_graphs = len(stock_dict_list)
         temp_dict_list = [stock_dict_list[i] for i in range(0, int(num_graphs))]
 
+    elif num_graphs.lower() == "max":
+
+        # Get the most profitable
+        max_stock = stock_dict_list[0]
+        max_percent = 0.0
+        for i in range(0, len(stock_dict_list)):
+            if float(df.values[i, 3]) > max_percent:
+                max_percent = float(df.values[i, 3])
+                max_stock = stock_dict_list[i]
+
+        # Print the max percent
+        print("Max percent: " + str(max_percent))
+
+        # Only graph one stock
+        graph_historical_single(max_stock)
+        return
+
     else:
 
-        #  Get the correct number of graphs OR graphs that are requested
-        try:
-            temp_dict_list = [stock_dict_list[i] for i in range(0, int(num_graphs))]
-        except:
-            requests = num_graphs.split(",")
-            for i in range(0, len(requests)):
-                requests[i] = requests[i].upper().strip()
-
-            temp_dict_list = [stock_dict_list[i] for i in range(0, len(stock_dict_list)) if
-                              stock_dict_list[i][0].ticker in requests]
+        # Get the correct number of graphs
+        temp_dict_list = [stock_dict_list[i] for i in range(0, int(num_graphs)) if stock_dict_list[i].ticker == num_graphs.upper()]
 
     graph_historical(temp_dict_list)
 
