@@ -27,7 +27,7 @@ def __main__():
         print("Don't buy stocks today. You either can't afford them or they're not in a profitable condition.")
     else:
         print()
-        print("FIRST STOCK -- SPENDING 50% MONEYS")
+        print("FIRST STOCK -- SPENDING 50% MONieS")
         buy = buyables[0]
         spendable = init_moneys / 2
 
@@ -56,7 +56,7 @@ def __main__():
               (num, buy.ticker, buy.today_price, before_spending, moneys))
 
         print()
-        print("SECOND STOCK -- SPENDING 25% MONEYS")
+        print("SECOND STOCK -- SPENDING 25% MONieS")
         buy = buyables[1]
         spendable = init_moneys / 4
 
