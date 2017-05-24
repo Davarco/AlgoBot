@@ -30,5 +30,5 @@ class Stock(object):
         # Calculate the upper and lower band
         self.upper_band = self.mean_price + k*self.deviation
         self.lower_band = self.mean_price - k*self.deviation
-        self.today_lower_diff = self.lower_band - self.today_price
-        self.today_upper_diff = self.today_price - self.upper_band
+        self.today_lower_diff = (self.lower_band - self.today_price) / self.today_price
+        self.today_upper_diff = (self.today_price - self.upper_band) / self.today_price

@@ -2,118 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58ee573e-db87-4b5c-b3f8-326ecc9b37d7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/AAL_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ADBE_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ADI_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ADP_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ADSK_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/AKAM_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ALXN_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/AMAT_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/AMGN_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ATVI_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/AVGO_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/BIDU_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/BIIB_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/BMRN_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CA_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CELG_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CERN_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CHKP_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CHTR_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CMCSA_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CSX_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CTAS_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CTRP_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CTSH_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/CTXS_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/DISCA_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/DISCK_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/DISH_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/DLTR_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/EA_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ESRX_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/EXPE_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/FAST_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/FB_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/FISV_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/FOXA_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/FOX_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/GILD_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/GOOGL_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/HAS_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/HOLX_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/HSIC_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/IDXX_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ILMN_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/INCY_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/INTU_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ISRG_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/JBHT_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/JD_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/KHC_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/KLAC_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/LBTYA_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/LBTYK_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/LILAK_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/LILA_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/LRCX_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/LVNTA_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/MAR_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/MAT_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/MCHP_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/MDLZ_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/MNST_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/MU_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/MXIM_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/MYL_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/NCLH_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/NFLX_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/NTES_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ORLY_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/PAYX_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/PCAR_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/PCLN_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/PYPL_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/QVCA_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/REGN_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ROST_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/SBUX_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/SHPG_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/SIRI_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/STX_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/SWKS_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/SYMC_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/TMUS_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/TSCO_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/TSLA_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/TXN_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/ULTA_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/VIAB_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/VOD_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/VRSK_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/VRTX_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/WBA_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/WDC_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/WYNN_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/XLNX_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cache/XRAY_Jan-01-2010.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-22-2017/11_35_25" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-22-2017/11_35_25.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-22-2017/11_59_26" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-22-2017/11_59_26.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-22-2017/12_00_35" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-22-2017/12_00_35.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-22-2017/12_00_48" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-22-2017/12_00_48.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-22-2017/12_01_12" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-22-2017/12_01_12.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-22-2017/12_02_00" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-22-2017/12_02_00.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-22-2017/12_03_01" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/05-22-2017/12_03_01.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/MarketLearning.iml" afterPath="$PROJECT_DIR$/.idea/MarketLearning.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/api.py" afterPath="$PROJECT_DIR$/src/api.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/stock.py" afterPath="$PROJECT_DIR$/src/stock.py" />
     </list>
     <ignored path="src/sale_man.py" />
     <ignored path="src/purchase_man.py" />
@@ -127,47 +20,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="api.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/api.py">
+      <file leaf-file-name="stock.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/stock.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="27" column="39" lean-forward="true" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="backtest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/backtest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="168" column="0" lean-forward="true" selection-start-line="168" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
-              <folding>
-                <element signature="e#325#2448#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="data.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/data.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-850">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="purchase_man.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/purchase_man.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+            <state relative-caret-position="372">
+              <caret line="33" column="87" lean-forward="false" selection-start-line="33" selection-start-column="87" selection-end-line="33" selection-end-column="87" />
               <folding />
             </state>
           </provider>
@@ -176,9 +33,21 @@
       <file leaf-file-name="sale_man.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sale_man.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="10" column="56" lean-forward="false" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+            <state relative-caret-position="289">
+              <caret line="52" column="42" lean-forward="false" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="api.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/api.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="36" column="56" lean-forward="false" selection-start-line="36" selection-start-column="56" selection-end-line="36" selection-end-column="56" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -230,21 +99,21 @@
         <option value="$PROJECT_DIR$/input/companies/custom.txt" />
         <option value="$PROJECT_DIR$/src/visualize.py" />
         <option value="$PROJECT_DIR$/src/backtest.py" />
-        <option value="$PROJECT_DIR$/src/stock.py" />
         <option value="$PROJECT_DIR$/src/data.py" />
         <option value="$PROJECT_DIR$/src/automator.py" />
         <option value="$PROJECT_DIR$/src/purchase_man.py" />
         <option value="$PROJECT_DIR$/src/api_tester.py" />
         <option value="$PROJECT_DIR$/src/sale_man.py" />
+        <option value="$PROJECT_DIR$/src/stock.py" />
         <option value="$PROJECT_DIR$/src/api.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="4" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="728" />
+    <option name="x" value="129" />
+    <option name="y" value="64" />
+    <option name="width" value="1086" />
+    <option name="height" value="760" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -261,7 +130,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -288,40 +156,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="input" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="input" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="companies" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -365,7 +202,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Ignored.Files" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/purchase_man.py" />
   </component>
@@ -373,6 +210,257 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/MarketLearning.iml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/misc.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/api.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/backtest.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/data.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/purchase_man.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/sale_man.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/stock.py</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/visualize.py</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/AAL_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/ADBE_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/ADI_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/ADP_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/ADSK_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/AKAM_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/ALXN_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/AMAT_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/AMGN_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/ATVI_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/AVGO_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/BIDU_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/BIIB_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/BMRN_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/CA_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/CELG_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/CERN_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/CHKP_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/CHTR_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/CMCSA_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/CSX_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/CTAS_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/CTRP_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/CTSH_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/CTXS_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/DISCA_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/DISCK_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/DISH_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/DLTR_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/EA_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/ESRX_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/EXPE_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/FAST_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/FB_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/FISV_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/FOXA_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/FOX_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/GILD_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/GOOGL_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/HAS_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/HOLX_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/HSIC_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/IDXX_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/ILMN_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/INCY_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/INTU_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/ISRG_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/JBHT_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/JD_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/KHC_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/KLAC_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/LBTYA_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/LBTYK_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/LILAK_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/LILA_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/LRCX_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/LVNTA_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/MAR_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/MAT_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/MCHP_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/MDLZ_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/MNST_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/MU_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/MXIM_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/MYL_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/NCLH_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/NFLX_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/NTES_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/ORLY_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/PAYX_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/PCAR_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/PCLN_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/PYPL_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/QVCA_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/REGN_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/ROST_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/SBUX_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/SHPG_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/SIRI_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/STX_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/SWKS_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/SYMC_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/TMUS_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/TSCO_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/TSLA_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/TXN_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/ULTA_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/VIAB_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/VOD_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/VRSK_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/VRTX_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/WBA_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/WDC_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/WYNN_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/XLNX_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/cache/XRAY_Jan-01-2010.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/input/companies/complete.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/input/companies/custom.txt</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/input/companies/company_list.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/input/companies/company_train_list.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/05-20-2017/15:23:25</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/05-20-2017/15:23:25.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/05-20-2017/17:50:41</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/05-20-2017/17:50:41.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/05-20-2017/19:44:45</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/05-20-2017/19:44:45.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/05-20-2017/19:54:15</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/05-20-2017/19:54:15.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/05-20-2017/19:57:33</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/05-20-2017/19:57:33.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/05-20-2017/19:58:10</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/05-20-2017/19:58:10.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/05-20-2017/19:58:53</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/05-20-2017/19:58:53.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/05-20-2017/19:59:31</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/05-20-2017/19:59:31.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/05-20-2017/19:59:51</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/05-20-2017/19:59:51.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/05-20-2017/20:00:41</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/05-20-2017/20:00:41.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/05-20-2017/20:01:40</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/05-20-2017/20:01:40.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/05-20-2017/20:02:40</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/05-20-2017/20:02:40.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/05-20-2017/20:03:39</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/05-20-2017/20:03:39.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/05-20-2017/20:04:06</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/05-20-2017/20:04:06.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/05-20-2017/20:04:49</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/05-20-2017/20:04:49.csv</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/19-05-2017/23:56:03</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/logs/19-05-2017/23:56:03.csv</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -685,28 +773,38 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="20" width="1346" height="728" extended-state="0" />
-    <editor active="true" />
+    <frame x="129" y="64" width="1086" height="760" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962406" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18416207" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32038835" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27701673" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32864675" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32038835" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962406" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -817,27 +915,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/automator.py" />
-    <entry file="file://$PROJECT_DIR$/src/api_tester.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api_tester.py" />
     <entry file="file://$PROJECT_DIR$/input/companies/complete.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
           <caret line="106" column="4" lean-forward="false" selection-start-line="106" selection-start-column="4" selection-end-line="106" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/stock.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -845,9 +927,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="168" column="0" lean-forward="true" selection-start-line="168" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
-          <folding>
-            <element signature="e#325#2448#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -855,16 +934,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-850">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sale_man.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="56" lean-forward="false" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+        <state relative-caret-position="289">
+          <caret line="52" column="42" lean-forward="false" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
           <folding />
         </state>
       </provider>
@@ -873,14 +949,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="33" column="87" lean-forward="false" selection-start-line="33" selection-start-column="87" selection-end-line="33" selection-end-column="87" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="27" column="39" lean-forward="true" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+        <state relative-caret-position="114">
+          <caret line="36" column="56" lean-forward="false" selection-start-line="36" selection-start-column="56" selection-end-line="36" selection-end-column="56" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
