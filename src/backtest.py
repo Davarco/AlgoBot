@@ -10,7 +10,7 @@ import os
 # Constants
 k = 1.2
 num_days = 200
-time_span = 100
+time_span = 200
 LOG = "logs/"
 
 
@@ -24,11 +24,13 @@ def backtest(stock_dict_list, log):
 
         # Set if it should be buying (true) or selling (false), save results
         buy = True
+        sell = False
+        prev = 0
         profit = 0
         price = 0
         total = 0
         num = 0
-        day = 0
+        day = 1
         ticker = stock_list[0].ticker
 
         # Write title to log file
@@ -36,7 +38,7 @@ def backtest(stock_dict_list, log):
         log.write(ticker + "\n")
         log.write("-" * len(ticker) + "\n")
 
-        # Go through all the stocks
+        # Go through all the stocks, each iteration represents one day
         for stock in stock_list:
 
             # Get bands and current price
@@ -57,14 +59,22 @@ def backtest(stock_dict_list, log):
                 log.write("%-12s" % "Resetting!" + "\n")
                 buy = True
 
+            # Allow selling after the first day the stock goes down
+            if today > prev:
+                sell = True
+
+            # Set the previous to today
+            prev = today
+
             # Sell stock if price is higher than upper band
-            if today >= upper and num != 0:
+            if today >= upper and num != 0 and sell:
                 profit += (today*num - price)
                 log.write("%-12s %-12s %-8.3f \n%-12s %-12s %-4.0f \n%-12s %-12s %-8.3f \n%-12s %-12s %-2s"
-                          % ("Selling!", "@price", today, "", "@day", day, "", "@num_shares", profit, "", "@price", num) + "\n")
+                          % ("Selling!", "@price", today, "", "@day", day, "", "@num_shares", num, "", "@profit", profit) + "\n")
                 num = 0
                 price = 0
                 buy = True
+                sell = False
 
             # Change to next day
             day += 1

@@ -1,0 +1,13 @@
+----
+VRTX
+----
+Buying!      @price       74.310   
+             @day         0   
+Resetting!  
+Selling!     @price       108.010  
+             @day         64   
+             @num_shares  33.700   
+             @price       1 
+
+Profitable: 1
+Unprofitable: 0
