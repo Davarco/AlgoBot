@@ -166,11 +166,7 @@ def main():
         max_percent = 0.0
         for i in range(0, len(stock_dict_list)):
             if float(df.values[i, 3]) > max_percent:
-<<<<<<< HEAD
                 max_percent = float(df.values[i, 3])    
-=======
-                max_percent = float(df.values[i, 3])
->>>>>>> vs
                 max_stock = stock_dict_list[i]
 
         # Print the max percent
@@ -193,8 +189,4 @@ def main():
 
 
 if __name__ == '__main__':
-<<<<<<< HEAD
     main()
-=======
-    main()
->>>>>>> vs
