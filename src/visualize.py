@@ -92,4 +92,8 @@ def graph_historical_default():
 
 
 if __name__ == '__main__':
+<<<<<<< HEAD
     graph_historical_default()
+=======
+    graph_historical_default()
+>>>>>>> vs
