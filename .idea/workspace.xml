@@ -2,14 +2,218 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58ee573e-db87-4b5c-b3f8-326ecc9b37d7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/train.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/api.py" afterPath="$PROJECT_DIR$/src/mean_reversion/api.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/backtest.py" afterPath="$PROJECT_DIR$/src/mean_reversion/backtest.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/runner.py" afterPath="$PROJECT_DIR$/src/mean_reversion/runner.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/AAL_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/AAPL_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ADBE_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ADI_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ADP_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ADSK_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/AKAM_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ALXN_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/AMAT_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/AMGN_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/AMZN_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ATVI_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/AVGO_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/BABA_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/BIDU_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/BIIB_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/BMRN_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/BP_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CA_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CELG_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CERN_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CHKP_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CHTR_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CMCSA_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/COST_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CSCO_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CSX_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CTAS_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CTRP_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CTSH_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CTXS_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/DISCA_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/DISCK_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/DISH_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/DLTR_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/EA_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/EBAY_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ESRX_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/EXPE_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/FAST_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/FB_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/FISV_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/FOXA_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/FOX_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/GILD_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/GOOGL_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/GOOG_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/HAS_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/HDP_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/HOLX_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/HSIC_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/IDXX_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ILMN_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/INCY_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/INTC_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/INTU_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ISRG_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/JBHT_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/JD_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/KHC_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/KLAC_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/LBTYA_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/LBTYK_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/LILAK_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/LILA_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/LRCX_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/LVNTA_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/MAR_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/MAT_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/MCHP_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/MDLZ_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/MNKD_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/MNST_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/MSFT_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/MU_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/MXIM_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/MYL_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/NCLH_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/NFLX_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/NTES_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/NVDA_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ORCL_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ORLY_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/PAYX_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/PCAR_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/PCLN_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/PYPL_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/QCOM_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/QVCA_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/REGN_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ROST_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/SBUX_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/SHPG_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/SIRI_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/SPLS_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/STX_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/SWKS_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/SYMC_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/TMUS_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/TSCO_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/TSLA_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/TXN_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/UAL_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ULTA_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/VIAB_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/VOD_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/VRSK_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/VRTX_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/WBA_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/WDC_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/WYNN_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/XLNX_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/XRAY_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/YHOO_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ZNGA_Jan-01-2010.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input/bollinger_constant.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-22-2017/11_51_34.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-22-2017/11_51_34.txt.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-22-2017/11_57_17.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-22-2017/11_57_20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-22-2017/11_57_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-22-2017/11_58_30.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-22-2017/11_58_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-22-2017/12_01_48.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-22-2017/12_01_48.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-22-2017/12_08_47.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-22-2017/12_08_47.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-22-2017/12_09_16.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-22-2017/12_09_16.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-22-2017/12_40_25.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-22-2017/12_40_25.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-22-2017/18_08_12.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-22-2017/18_08_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-22-2017/18_08_45.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-22-2017/18_08_45.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-22-2017/18_08_59.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-22-2017/18_08_59.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-22-2017/18_09_55.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-22-2017/18_09_55.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-22-2017/21_42_30.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-22-2017/21_42_30.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-22-2017/21_42_45.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-22-2017/21_42_45.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-23-2017/11_51_55.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-23-2017/11_51_55.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-23-2017/11_56_15.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-23-2017/11_56_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-23-2017/11_59_56.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-23-2017/11_59_56.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-23-2017/12_02_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-23-2017/12_02_39.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-23-2017/12_02_39.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-23-2017/12_04_38.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-23-2017/12_04_38.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-23-2017/12_05_47.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-23-2017/12_05_47.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-23-2017/12_06_09.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-23-2017/12_06_09.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-23-2017/12_12_06.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-23-2017/12_12_06.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-23-2017/12_12_36.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-23-2017/12_12_36.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-23-2017/12_12_53.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-23-2017/12_12_53.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-23-2017/12_13_26.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-23-2017/12_13_26.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-23-2017/12_15_13.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-23-2017/12_15_13.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-23-2017/12_16_19.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-23-2017/12_16_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-24-2017/11_44_21.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-24-2017/11_44_21.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-24-2017/11_45_19.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-24-2017/11_45_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-24-2017/11_46_44.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-24-2017/11_46_44.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-24-2017/11_52_01.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-24-2017/11_52_01.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-25-2017/14_47_07.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-25-2017/14_47_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-25-2017/14_47_45.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-25-2017/14_47_45.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-25-2017/14_48_19.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-25-2017/14_48_19.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-25-2017/14_48_53.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-25-2017/14_48_53.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-26-2017/07_38_28.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-26-2017/07_38_28.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-26-2017/12_08_00.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-26-2017/12_08_00.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-26-2017/12_14_04.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-26-2017/12_14_04.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-26-2017/12_17_40.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-26-2017/12_17_40.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-26-2017/12_18_20.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-26-2017/12_18_20.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-26-2017/14_46_15.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-26-2017/14_46_15.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-26-2017/14_53_07.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-26-2017/14_53_07.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-26-2017/14_53_27.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-26-2017/14_53_27.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-26-2017/14_53_46.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-26-2017/14_53_46.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-26-2017/14_54_12.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-26-2017/14_54_12.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-26-2017/20_56_31.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-26-2017/20_56_31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-26-2017/20_57_51.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logs/05-26-2017/20_57_51.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/stock.py" afterPath="$PROJECT_DIR$/src/stock.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/visualize.py" afterPath="$PROJECT_DIR$/src/visualize.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/data.py" afterPath="$PROJECT_DIR$/src/data.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,11 +237,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="backtest.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="backtest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/trend_following/backtest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="584">
-              <caret line="184" column="0" lean-forward="false" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
+            <state relative-caret-position="408">
+              <caret line="175" column="42" lean-forward="false" selection-start-line="175" selection-start-column="42" selection-end-line="175" selection-end-column="42" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -65,12 +269,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="data.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="580">
+              <caret line="53" column="57" lean-forward="false" selection-start-line="53" selection-start-column="57" selection-end-line="53" selection-end-column="57" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -88,8 +294,8 @@
       <file leaf-file-name="api.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mean_reversion/api.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="240">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -132,7 +338,6 @@
         <option value="$PROJECT_DIR$/input/companies/company_train_list.txt" />
         <option value="$PROJECT_DIR$/src/train.py" />
         <option value="$PROJECT_DIR$/input/companies/complete.txt" />
-        <option value="$PROJECT_DIR$/src/data.py" />
         <option value="$PROJECT_DIR$/src/api.py" />
         <option value="$PROJECT_DIR$/src/runner.py" />
         <option value="$PROJECT_DIR$/input/companies/single.txt" />
@@ -142,6 +347,7 @@
         <option value="$PROJECT_DIR$/src/visualize.py" />
         <option value="$PROJECT_DIR$/src/trend_following/backtest.py" />
         <option value="$PROJECT_DIR$/src/mean_reversion/api.py" />
+        <option value="$PROJECT_DIR$/src/data.py" />
       </list>
     </option>
   </component>
@@ -166,6 +372,34 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoBot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoBot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoBot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoBot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -207,88 +441,11 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="trend_following" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mean_reversion" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MarketLearning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cache" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -502,11 +659,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="27" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2804487" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28365386" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -632,14 +790,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/train.py" />
     <entry file="file://$PROJECT_DIR$/src/main.py" />
-    <entry file="file://$PROJECT_DIR$/src/data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/mean_reversion/backtest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -683,8 +833,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mean_reversion/api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="240">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
@@ -695,16 +845,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="463" column="2" lean-forward="true" selection-start-line="463" selection-start-column="2" selection-end-line="463" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/trend_following/backtest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="584">
-          <caret line="184" column="0" lean-forward="false" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
+        <state relative-caret-position="408">
+          <caret line="175" column="42" lean-forward="false" selection-start-line="175" selection-start-column="42" selection-end-line="175" selection-end-column="42" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="53" column="57" lean-forward="false" selection-start-line="53" selection-start-column="57" selection-end-line="53" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>

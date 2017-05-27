@@ -1,5 +1,6 @@
 import requests
 import pandas
+import time
 import io
 import os
 
@@ -17,7 +18,7 @@ def retrieve_single(ticker):
     # Get the stock data from google finance
     print("Getting stock ticker list...")
     ticker = ticker.strip()
-    path = cache + "/" + ticker + "_" + title_date + ".csv"
+    path = cache + "/" + ticker + "_" + title_date + "_" + time.strftime("%d-%m-%Y") + ".csv"
     if os.path.exists(path):
         data = pandas.read_csv(path)
     else:
@@ -50,7 +51,7 @@ def retrieve_list(path):
 
         # Get data from google finance url
         name = name.strip()
-        path = cache + "/" + name + "_" + title_date + ".csv"
+        path = cache + "/" + name + "_" + title_date + "_" + time.strftime("%d-%m-%Y") + ".csv"
         if os.path.exists(path):
             data = pandas.read_csv(path)
         else:
