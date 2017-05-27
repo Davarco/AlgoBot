@@ -102,8 +102,4 @@ WBA
 WDC
 WYNN
 XLNX
-<<<<<<< HEAD
 YHOO
-=======
-YHOO
->>>>>>> vs
