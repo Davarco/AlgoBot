@@ -3,7 +3,7 @@ from flask import Flask
 from flask_restful import Resource, Api
 from data import retrieve_list
 from stock import Stock
-from src.mean_reversion.backtest import k, num_days
+from src.trend_following.backtest import k, num_days
 
 
 app = Flask(__name__)
@@ -17,8 +17,8 @@ stock_dict_list = []
 for key in stock_data:
     stock_dict_list.append(Stock(key, stock_data[key], k, 0, num_days))
 
-buy_order = sorted(stock_dict_list, key=lambda stock_sorting: stock_sorting.lower_band_diff, reverse=True)
-sell_order = sorted(stock_dict_list, key=lambda stock_sorting: stock_sorting.upper_band_diff, reverse=True)
+buy_order = sorted(stock_dict_list, key=lambda stock_sorting: stock_sorting.today_lower_diff, reverse=True)
+sell_order = sorted(stock_dict_list, key=lambda stock_sorting: stock_sorting.today_upper_diff, reverse=True)
 
 buy_json = []
 for stock in buy_order:

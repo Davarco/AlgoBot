@@ -4,9 +4,11 @@
       <w>backtest</w>
       <w>backtested</w>
       <w>bollinger</w>
+      <w>buyables</w>
       <w>dataframes</w>
       <w>ichart</w>
       <w>recommender</w>
+      <w>todos</w>
     </words>
   </dictionary>
 </component>

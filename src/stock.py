@@ -12,6 +12,8 @@ class Stock(object):
     deviation = 0
     upper_band = 0
     lower_band = 0
+    upper_band_diff = 0
+    lower_band_diff = 0
     ma_200 = 0
     ma_50 = 0
 
@@ -34,6 +36,8 @@ class Stock(object):
         # Calculate the upper and lower band
         self.upper_band = self.mean_price + k*self.deviation
         self.lower_band = self.mean_price - k*self.deviation
+        self.lower_band_diff = (self.lower_band - self.today_price) / self.today_price
+        self.upper_band_diff = (self.today_price - self.upper_band) / self.today_price
 
         # Get the 200 and 50 day moving averages
         self.ma_200 = prices[0:200].mean()
