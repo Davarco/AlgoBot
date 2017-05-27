@@ -4,7 +4,7 @@ import pylab as plt
 import pandas as pd
 
 
-def graph_historical_single(stock):
+def graph_mean_reversion_single(stock):
 
     # Get the upper, lower, and price band, and curr
     upper_band = pd.DataFrame([item.upper_band for item in stock])
@@ -34,7 +34,7 @@ def graph_historical_single(stock):
     plt.show()
 
 
-def graph_historical(stock_data_list):
+def graph_mean_reversion(stock_data_list):
 
     # Go through all of the stocks
     for stock in stock_data_list:
@@ -67,7 +67,7 @@ def graph_historical(stock_data_list):
     plt.show()
 
 
-def graph_historical_default():
+def graph_mean_reversion_default():
 
     # Constants
     k = 1.5
@@ -88,8 +88,64 @@ def graph_historical_default():
         stock_data_list.append(temp)
 
     # Graph the historical data
-    graph_historical(stock_data_list)
+    graph_mean_reversion(stock_data_list)
 
+
+def graph_moving_average_single(stock):
+
+    # Get the upper, lower, and price band, and curr
+    ma_200 = pd.DataFrame([item.ma_200 for item in stock])
+    ma_50 = pd.DataFrame([item.ma_50 for item in stock])
+    today_band = pd.DataFrame([item.today_price for item in stock])
+
+    # Set index columns
+    ma_200.insert(0, 'day', ma_200.index + 1)
+    ma_50.insert(0, 'day', ma_50.index + 1)
+    today_band.insert(0, 'day', today_band.index + 1)
+
+    # Plot graphs
+    plt.figure()
+    plt.plot(ma_200.values[:, 0], ma_200.values[:, 1], color="red")
+    plt.plot(ma_50.values[:, 0], ma_50.values[:, 1], color="blue")
+    plt.plot(today_band.values[:, 0], today_band.values[:, 1], color="black")
+    plt.xlabel("Day")
+    plt.ylabel("Price")
+    plt.title(stock[0].ticker + ": Moving Average")
+    plt.gcf().canvas.set_window_title(stock[0].ticker + ": Moving Average")
+    plt.ylim(ymin=0)
+    plt.draw()
+
+    plt.show()
+
+
+def graph_moving_average(stock_data_list):
+
+    # Go through all of the stocks
+    for stock in stock_data_list:
+
+        # Get the upper, lower, and price band, and curr
+        ma_200 = pd.DataFrame([item.ma_200 for item in stock])
+        ma_50 = pd.DataFrame([item.ma_50 for item in stock])
+        today_band = pd.DataFrame([item.today_price for item in stock])
+
+        # Set index columns
+        ma_200.insert(0, 'day', ma_200.index + 1)
+        ma_50.insert(0, 'day', ma_50.index + 1)
+        today_band.insert(0, 'day', today_band.index + 1)
+
+        # Plot graphs
+        plt.figure()
+        plt.plot(ma_200.values[:, 0], ma_200.values[:, 1], color="red")
+        plt.plot(ma_50.values[:, 0], ma_50.values[:, 1], color="blue")
+        plt.plot(today_band.values[:, 0], today_band.values[:, 1], color="black")
+        plt.xlabel("Day")
+        plt.ylabel("Price")
+        plt.title(stock[0].ticker + ": Moving Average")
+        plt.gcf().canvas.set_window_title(stock[0].ticker + ": Moving Average")
+        plt.ylim(ymin=0)
+        plt.draw()
+
+    plt.show()
 
 if __name__ == '__main__':
-    graph_historical_default()
+    graph_mean_reversion_default()

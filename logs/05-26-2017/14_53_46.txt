@@ -1,0 +1,686 @@
+----
+ATVI
+----
+Buying!      @price       36.480   
+             @day         4   
+Resetting!  
+Selling!     @price       47.070   
+             @day         47   
+             @num_shares  1.000    
+             @profit      7.918
+
+----
+ADBE
+----
+
+----
+AKAM
+----
+Buying!      @price       50.400   
+             @day         93  
+
+----
+ALXN
+----
+Buying!      @price       127.190  
+             @day         1   
+Resetting!  
+Selling!     @price       131.540  
+             @day         42   
+             @num_shares  1.000    
+             @profit      9.3798
+Buying!      @price       115.490  
+             @day         71  
+
+----
+GOOG
+----
+
+-----
+GOOGL
+-----
+
+----
+AMZN
+----
+
+---
+AAL
+---
+
+----
+AMGN
+----
+Buying!      @price       147.550  
+             @day         1   
+Resetting!  
+Selling!     @price       178.240  
+             @day         45   
+             @num_shares  1.000    
+             @profit      30.3566
+
+---
+ADI
+---
+
+----
+AAPL
+----
+
+----
+AMAT
+----
+
+----
+ADSK
+----
+
+---
+ADP
+---
+
+----
+BIDU
+----
+Buying!      @price       163.620  
+             @day         1   
+Resetting!  
+Selling!     @price       184.310  
+             @day         34   
+             @num_shares  1.000    
+             @profit      15.5234
+
+----
+BIIB
+----
+Buying!      @price       266.110  
+             @day         30  
+
+----
+BMRN
+----
+Buying!      @price       85.660   
+             @day         1   
+Resetting!  
+Selling!     @price       92.500   
+             @day         55   
+             @num_shares  1.000    
+             @profit      7.4848
+
+----
+AVGO
+----
+
+--
+CA
+--
+Buying!      @price       32.050   
+             @day         1   
+
+----
+CELG
+----
+
+----
+CERN
+----
+Buying!      @price       48.040   
+             @day         1   
+Resetting!  
+Selling!     @price       59.450   
+             @day         83   
+             @num_shares  1.000    
+             @profit      7.3938
+
+----
+CHKP
+----
+
+----
+CTAS
+----
+
+----
+CSCO
+----
+
+----
+CTXS
+----
+
+----
+CTSH
+----
+Buying!      @price       56.490   
+             @day         1   
+Resetting!  
+Selling!     @price       59.500   
+             @day         42   
+             @num_shares  1.000    
+             @profit      5.658
+
+-----
+CMCSA
+-----
+
+----
+COST
+----
+Buying!      @price       162.070  
+             @day         1   
+Resetting!  
+Selling!     @price       163.810  
+             @day         16   
+             @num_shares  1.000    
+             @profit      11.6476
+
+---
+CSX
+---
+
+----
+CTRP
+----
+Buying!      @price       39.980   
+             @day         1   
+Resetting!  
+Selling!     @price       47.510   
+             @day         48   
+             @num_shares  1.000    
+             @profit      4.0686
+
+----
+XRAY
+----
+Buying!      @price       59.240   
+             @day         1   
+Resetting!  
+Selling!     @price       62.940   
+             @day         64   
+             @num_shares  1.000    
+             @profit      3.747
+
+-----
+DISCA
+-----
+
+-----
+DISCK
+-----
+
+----
+DISH
+----
+
+----
+DLTR
+----
+Buying!      @price       78.700   
+             @day         1   
+
+----
+EBAY
+----
+
+--
+EA
+--
+
+----
+EXPE
+----
+
+----
+ESRX
+----
+Buying!      @price       69.000   
+             @day         1   
+
+--
+FB
+--
+Buying!      @price       123.410  
+             @day         9   
+Resetting!  
+Selling!     @price       130.320  
+             @day         25   
+             @num_shares  1.000    
+             @profit      10.002
+
+----
+FAST
+----
+Buying!      @price       48.140   
+             @day         1   
+Resetting!  
+Selling!     @price       48.330   
+             @day         2    
+             @num_shares  1.000    
+             @profit      4.2372
+
+----
+FISV
+----
+Buying!      @price       108.000  
+             @day         1   
+Resetting!  
+Selling!     @price       106.280  
+             @day         5    
+             @num_shares  1.000    
+             @profit      3.3896
+
+----
+GILD
+----
+Buying!      @price       73.640   
+             @day         1   
+
+---
+HAS
+---
+
+----
+HSIC
+----
+Buying!      @price       152.790  
+             @day         1   
+Resetting!  
+Selling!     @price       171.250  
+             @day         54   
+             @num_shares  1.000    
+             @profit      18.4076
+
+----
+HOLX
+----
+
+----
+IDXX
+----
+
+----
+ILMN
+----
+Buying!      @price       128.750  
+             @day         1   
+Resetting!  
+Selling!     @price       166.820  
+             @day         43   
+             @num_shares  1.000    
+             @profit      32.839
+
+----
+INCY
+----
+
+----
+INTC
+----
+Buying!      @price       35.760   
+             @day         79  
+
+----
+INTU
+----
+
+----
+ISRG
+----
+Buying!      @price       640.750  
+             @day         1   
+Resetting!  
+Selling!     @price       735.350  
+             @day         41   
+             @num_shares  1.000    
+             @profit      81.4472
+
+----
+JBHT
+----
+
+--
+JD
+--
+
+----
+KLAC
+----
+
+----
+LRCX
+----
+
+-----
+LBTYA
+-----
+Buying!      @price       30.860   
+             @day         1   
+Resetting!  
+Selling!     @price       35.510   
+             @day         35   
+             @num_shares  1.000    
+             @profit      4.1242
+
+-----
+LBTYK
+-----
+Buying!      @price       29.790   
+             @day         1   
+Resetting!  
+Selling!     @price       34.790   
+             @day         36   
+             @num_shares  1.000    
+             @profit      4.259
+
+----
+LILA
+----
+Buying!      @price       22.660   
+             @day         1   
+
+-----
+LILAK
+-----
+Buying!      @price       21.740   
+             @day         1   
+
+----
+QVCA
+----
+Buying!      @price       19.930   
+             @day         1   
+Resetting!  
+Selling!     @price       23.700   
+             @day         93   
+             @num_shares  1.000    
+             @profit      3.7358
+
+---
+MAR
+---
+
+---
+MAT
+---
+Buying!      @price       28.340   
+             @day         1   
+
+----
+MXIM
+----
+
+----
+MCHP
+----
+
+--
+MU
+--
+
+----
+MSFT
+----
+
+----
+MDLZ
+----
+Buying!      @price       45.010   
+             @day         1   
+Resetting!  
+Selling!     @price       44.200   
+             @day         23   
+             @num_shares  1.000    
+             @profit      1.2052
+
+----
+MNST
+----
+Buying!      @price       45.570   
+             @day         1   
+
+---
+MYL
+---
+Buying!      @price       37.500   
+             @day         1   
+Resetting!  
+Selling!     @price       38.990   
+             @day         67   
+             @num_shares  1.000    
+             @profit      1.9628
+Buying!      @price       39.430   
+             @day         95  
+
+----
+NTES
+----
+
+----
+NFLX
+----
+
+----
+NCLH
+----
+Buying!      @price       43.510   
+             @day         1   
+Resetting!  
+Selling!     @price       45.620   
+             @day         17   
+             @num_shares  1.000    
+             @profit      5.489
+
+----
+NVDA
+----
+
+----
+ORLY
+----
+Buying!      @price       283.220  
+             @day         1   
+Resetting!  
+Selling!     @price       281.300  
+             @day         11   
+             @num_shares  1.000    
+             @profit      8.2842
+Buying!      @price       268.250  
+             @day         43  
+
+----
+PCAR
+----
+
+----
+PAYX
+----
+
+----
+PYPL
+----
+
+----
+QCOM
+----
+Buying!      @price       57.140   
+             @day         42  
+
+----
+REGN
+----
+Buying!      @price       381.780  
+             @day         1   
+Resetting!  
+Selling!     @price       440.430  
+             @day         95   
+             @num_shares  1.000    
+             @profit      61.4064
+
+----
+ROST
+----
+Buying!      @price       61.520   
+             @day         99  
+
+---
+STX
+---
+
+----
+SHPG
+----
+Buying!      @price       168.650  
+             @day         1   
+
+----
+SIRI
+----
+
+----
+SWKS
+----
+
+----
+SBUX
+----
+Buying!      @price       57.010   
+             @day         1   
+Resetting!  
+Selling!     @price       57.130   
+             @day         9    
+             @num_shares  1.000    
+             @profit      1.421
+
+----
+SYMC
+----
+
+----
+TMUS
+----
+
+----
+TSLA
+----
+Buying!      @price       213.340  
+             @day         1   
+Resetting!  
+Selling!     @price       251.930  
+             @day         25   
+             @num_shares  1.000    
+             @profit      57.577
+
+---
+TXN
+---
+
+---
+KHC
+---
+Buying!      @price       87.310   
+             @day         3   
+Resetting!  
+Selling!     @price       89.780   
+             @day         32   
+             @num_shares  1.000    
+             @profit      4.8272
+
+----
+PCLN
+----
+
+----
+TSCO
+----
+Buying!      @price       76.130   
+             @day         1   
+
+---
+FOX
+---
+Buying!      @price       27.700   
+             @day         1   
+Resetting!  
+Selling!     @price       28.340   
+             @day         8    
+             @num_shares  1.000    
+             @profit      1.267
+
+----
+FOXA
+----
+Buying!      @price       28.380   
+             @day         1   
+Resetting!  
+Selling!     @price       28.540   
+             @day         2    
+             @num_shares  1.000    
+             @profit      1.3354
+
+----
+ULTA
+----
+
+----
+VRSK
+----
+Buying!      @price       79.450   
+             @day         70  
+
+----
+VRTX
+----
+Buying!      @price       74.310   
+             @day         1   
+Resetting!  
+Selling!     @price       89.050   
+             @day         61   
+             @num_shares  1.000    
+             @profit      7.681
+
+----
+VIAB
+----
+Buying!      @price       35.150   
+             @day         1   
+Resetting!  
+Selling!     @price       43.760   
+             @day         45   
+             @num_shares  1.000    
+             @profit      6.8812
+
+---
+VOD
+---
+Buying!      @price       24.650   
+             @day         1   
+
+---
+WBA
+---
+
+---
+WDC
+---
+
+----
+WYNN
+----
+Buying!      @price       88.340   
+             @day         1   
+Resetting!  
+Selling!     @price       104.700  
+             @day         54   
+             @num_shares  1.000    
+             @profit      11.2922
+
+----
+XLNX
+----
+
+----
+YHOO
+----
+
+Profitable: 32
+Unprofitable: 0

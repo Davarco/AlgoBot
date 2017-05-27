@@ -12,6 +12,8 @@ class Stock(object):
     deviation = 0
     upper_band = 0
     lower_band = 0
+    ma_200 = 0
+    ma_50 = 0
 
     def __str__(self):
         return "\nTicker: " + self.ticker + "\nStd Deviation: " + str(self.deviation) + "\nMean Price: " + str(self.mean_price) + \
@@ -32,3 +34,7 @@ class Stock(object):
         # Calculate the upper and lower band
         self.upper_band = self.mean_price + k*self.deviation
         self.lower_band = self.mean_price - k*self.deviation
+
+        # Get the 200 and 50 day moving averages
+        self.ma_200 = prices[0:200].mean()
+        self.ma_50 = prices[0:50].mean()

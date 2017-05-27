@@ -1,8 +1,8 @@
 from stock import Stock
 from data import retrieve_list
 from datetime import datetime
-from visualize import graph_historical
-from visualize import graph_historical_single
+from visualize import graph_mean_reversion
+from visualize import graph_mean_reversion_single
 import pandas as pd
 import numpy as np
 import os
@@ -10,7 +10,7 @@ import os
 # Constants
 k = 1.2
 num_days = 200
-time_span = 200
+time_span = 100
 LOG = "logs/"
 
 
@@ -173,7 +173,7 @@ def main():
         print("Max percent: " + str(max_percent))
 
         # Only graph one stock
-        graph_historical_single(max_stock)
+        graph_mean_reversion_single(max_stock)
         return
 
     else:
@@ -181,7 +181,7 @@ def main():
         # Get the correct number of graphs
         temp_dict_list = [stock_dict_list[i] for i in range(0, int(num_graphs)) if stock_dict_list[i].ticker == num_graphs.upper()]
 
-    graph_historical(temp_dict_list)
+    graph_mean_reversion(temp_dict_list)
 
     # Get the net percent
     net_percent = np.sum(float(i) for i in df.values[:, 3] if float(i) > 0)
