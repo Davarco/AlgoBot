@@ -23,3 +23,22 @@ In addition to the dependencies listed above, you will need an internet connecti
 
 Both the backtest.py in the strategies mean reversion and trend following test the algorithm on historical data. The user can specify the amount of historical days used by modifying the constant **time_span** found in the source code. In mean reversion, the user can also specify the Bollinger band constant, which is represented by the constant **k**. However, the default Bollinger band constant of 1.20 is recommended. Modifying this constant in the trend following algorithm will have no effect.
 
+## License
+
+    AlgoBot - An algorithmic trading bot written in Python
+    Copyright (C) 2017  Vanshaj Singhania, David Zhang, Emil Tu
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+    
+For more information, see [LICENSE.md](https://github.com/Davarco/AlgoBot/blob/master/LICENSE.md).
