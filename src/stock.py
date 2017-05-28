@@ -16,6 +16,7 @@ class Stock(object):
     lower_band_diff = 0
     ma_200 = 0
     ma_50 = 0
+    yest_price = 0
 
     def __str__(self):
         return "\nTicker: " + self.ticker + "\nStd Deviation: " + str(self.deviation) + "\nMean Price: " + str(self.mean_price) + \
@@ -31,6 +32,7 @@ class Stock(object):
         self.num_days = num_days
         self.mean_price = prices.mean()
         self.today_price = prices[0]
+        self.yest_price = prices[1]
         self.deviation = prices.std()
 
         # Calculate the upper and lower band

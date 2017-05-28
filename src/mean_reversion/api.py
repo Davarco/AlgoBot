@@ -12,6 +12,7 @@ api = Api(app)
 todos = {}
 
 stock_data = retrieve_list("input/companies/complete.txt")
+
 stock_dict_list = []
 
 for key in stock_data:
@@ -46,8 +47,22 @@ class SellOrder(Resource):
         # return {"data": stock.__dict__}
         return {"data_count": len(sell_json), "data": sell_json}
 
+class GetStock(Resource):
+    def get(self, ticker):
+        stock = None
+        for s in stock_dict_list:
+            if s.ticker == ticker:
+                stock = s
+                break
+
+        if stock is not None:
+            return {ticker: stock.__dict__}
+        else:
+            return {"error": "ticker not found!"}
+
 api.add_resource(BuyOrder, '/stocks/buy')
 api.add_resource(SellOrder, '/stocks/sell')
+api.add_resource(GetStock, '/stocks/get/<string:ticker>')
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='192.168.1.128')
