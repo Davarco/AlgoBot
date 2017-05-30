@@ -1,8 +1,8 @@
 
 from flask import Flask
 from flask_restful import Resource, Api
-from data import retrieve_list
-from stock import Stock
+from src.data import retrieve_list
+from src.stock import Stock
 from src.trend_following.backtest import num_days, k
 
 

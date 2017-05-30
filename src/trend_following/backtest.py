@@ -1,8 +1,8 @@
-from stock import Stock
-from data import retrieve_list
-from datetime import datetime
-from visualize import graph_moving_average
-from visualize import graph_moving_average_single
+from src.stock import Stock
+from src.data import retrieve_list
+from src.datetime import datetime
+from src.visualize import graph_moving_average
+from src.visualize import graph_moving_average_single
 import pandas as pd
 import numpy as np
 import os

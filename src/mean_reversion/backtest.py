@@ -1,8 +1,8 @@
 from src.stock import Stock
 from src.data import retrieve_list
-from src.datetime import datetime
 from src.visualize import graph_mean_reversion
 from src.visualize import graph_mean_reversion_single
+from datetime import datetime
 import pandas as pd
 import numpy as np
 import os
