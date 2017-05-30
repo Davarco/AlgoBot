@@ -1,9 +1,12 @@
+import os
+import sys
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 from flask import Flask
 from flask_restful import Resource, Api
-from src.data import retrieve_list
-from src.stock import Stock
-from src.trend_following.backtest import num_days, k
+from data import retrieve_list
+from stock import Stock
+from trend_following.backtest import num_days, k
 
 
 app = Flask(__name__)
@@ -11,12 +14,13 @@ api = Api(app)
 
 todos = {}
 
+# Get stock data
 stock_data = retrieve_list("input/companies/complete.txt")
 stock_dict_list = []
-
 for key in stock_data:
     stock_dict_list.append(Stock(key, stock_data[key], k, 0, num_days))
 
+# Sort stocks to buy and sell
 buy_order = sorted(stock_dict_list, key=lambda stock_sorting: stock_sorting.ma_diff, reverse=False)
 sell_order = sorted(stock_dict_list, key=lambda stock_sorting: stock_sorting.ma_diff, reverse=True)
 
@@ -60,6 +64,7 @@ class GetStock(Resource):
         else:
             return {"error": "ticker not found!"}
 
+# Add the resources to the API
 api.add_resource(BuyOrder, '/stocks/buy')
 api.add_resource(SellOrder, '/stocks/sell')
 api.add_resource(GetStock, '/stocks/get/<string:ticker>')

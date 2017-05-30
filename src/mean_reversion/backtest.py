@@ -1,11 +1,14 @@
-from src.stock import Stock
-from src.data import retrieve_list
-from src.visualize import graph_mean_reversion
-from src.visualize import graph_mean_reversion_single
+import os
+import sys
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+from stock import Stock
+from data import retrieve_list
+from visualize import graph_mean_reversion
+from visualize import graph_mean_reversion_single
 from datetime import datetime
 import pandas as pd
 import numpy as np
-import os
 
 # Constants
 k = 1.2
