@@ -1,221 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58ee573e-db87-4b5c-b3f8-326ecc9b37d7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/AAL_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/AAL_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/AAPL_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/AAPL_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ADBE_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ADBE_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ADI_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ADI_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ADP_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ADP_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ADSK_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ADSK_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/AKAM_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/AKAM_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ALXN_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ALXN_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/AMAT_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/AMAT_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/AMGN_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/AMGN_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/AMZN_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/AMZN_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ATVI_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ATVI_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/AVGO_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/AVGO_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/BIDU_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/BIDU_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/BIIB_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/BIIB_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/BMRN_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/BMRN_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CA_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CA_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CELG_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CELG_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CERN_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CERN_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CHKP_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CHKP_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CMCSA_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CMCSA_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/COST_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/COST_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CSCO_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CSCO_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CSX_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CSX_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CTAS_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CTAS_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CTRP_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CTRP_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CTSH_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CTSH_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CTXS_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/CTXS_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/DISCA_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/DISCA_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/DISCK_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/DISCK_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/DISH_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/DISH_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/DLTR_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/DLTR_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/EA_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/EA_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/EBAY_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/EBAY_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ESRX_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ESRX_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/EXPE_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/EXPE_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/FAST_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/FAST_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/FB_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/FB_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/FISV_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/FISV_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/FOXA_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/FOXA_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/FOX_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/FOX_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/GILD_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/GILD_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/GOOGL_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/GOOGL_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/GOOG_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/GOOG_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/HAS_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/HAS_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/HOLX_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/HOLX_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/HSIC_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/HSIC_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/IDXX_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/IDXX_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ILMN_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ILMN_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/INCY_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/INCY_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/INTC_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/INTC_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/INTU_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/INTU_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ISRG_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ISRG_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/JBHT_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/JBHT_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/JD_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/JD_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/KHC_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/KHC_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/KLAC_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/KLAC_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/LBTYA_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/LBTYA_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/LBTYK_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/LBTYK_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/LILAK_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/LILAK_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/LILA_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/LILA_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/LRCX_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/LRCX_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/MAR_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/MAR_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/MAT_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/MAT_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/MCHP_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/MCHP_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/MDLZ_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/MDLZ_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/MNST_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/MNST_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/MSFT_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/MSFT_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/MU_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/MU_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/MXIM_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/MXIM_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/MYL_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/MYL_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/NCLH_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/NCLH_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/NFLX_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/NFLX_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/NTES_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/NTES_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/NVDA_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/NVDA_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ORCL_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ORLY_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ORLY_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/PAYX_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/PAYX_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/PCAR_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/PCAR_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/PCLN_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/PCLN_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/PYPL_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/PYPL_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/QCOM_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/QCOM_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/QVCA_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/QVCA_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/REGN_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/REGN_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ROST_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ROST_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/SBUX_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/SBUX_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/SHPG_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/SHPG_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/SIRI_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/SIRI_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/SPLS_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/STX_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/STX_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/SWKS_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/SWKS_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/SYMC_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/SYMC_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/TMUS_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/TMUS_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/TSCO_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/TSCO_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/TSLA_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/TSLA_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/TXN_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/TXN_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/UAL_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ULTA_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/ULTA_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/VIAB_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/VIAB_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/VOD_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/VOD_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/VRSK_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/VRSK_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/VRTX_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/VRTX_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/WBA_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/WBA_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/WDC_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/WDC_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/WYNN_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/WYNN_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/XLNX_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/XLNX_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/XRAY_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/XRAY_Jan-01-2010_29-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/YHOO_Jan-01-2010_27-05-2017.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/cache/YHOO_Jan-01-2010_29-05-2017.csv" afterPath="" />
-    </list>
+    <list default="true" id="58ee573e-db87-4b5c-b3f8-326ecc9b37d7" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -284,7 +70,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="visualize.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="visualize.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/visualize.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1540">
@@ -292,6 +78,16 @@
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".placeholder" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cache/.placeholder">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -376,6 +172,7 @@
         <option value="$PROJECT_DIR$/src/trend_following/backtest.py" />
         <option value="$PROJECT_DIR$/src/purchase.py" />
         <option value="$PROJECT_DIR$/src/visualize.py" />
+        <option value="$PROJECT_DIR$/cache/.placeholder" />
       </list>
     </option>
   </component>
@@ -473,6 +270,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="input" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoBot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AlgoBot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cache" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -758,8 +569,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="27" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2900641" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2900641" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -822,7 +634,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/yahoo/data_wrangler.py" />
     <entry file="file://$PROJECT_DIR$/src/yahoo/data_wrangler.py" />
     <entry file="file://$PROJECT_DIR$/src/yahoo/main.py" />
     <entry file="file://$PROJECT_DIR$/src/yahoo/data_wrangler.py" />
@@ -992,6 +803,14 @@
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cache/.placeholder">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
+          <folding />
         </state>
       </provider>
     </entry>
