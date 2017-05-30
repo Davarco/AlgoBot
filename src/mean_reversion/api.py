@@ -1,8 +1,8 @@
 
 from flask import Flask
 from flask_restful import Resource, Api
-from data import retrieve_list
-from stock import Stock
+from src.data import retrieve_list
+from src.stock import Stock
 from src.mean_reversion.backtest import k, num_days
 
 
@@ -47,6 +47,7 @@ class SellOrder(Resource):
         # return {"data": stock.__dict__}
         return {"data_count": len(sell_json), "data": sell_json}
 
+
 class GetStock(Resource):
     def get(self, ticker):
         stock = None
@@ -65,4 +66,4 @@ api.add_resource(SellOrder, '/stocks/sell')
 api.add_resource(GetStock, '/stocks/get/<string:ticker>')
 
 if __name__ == '__main__':
-    app.run(host='192.168.1.128')
+    app.run(host='0.0.0.0')

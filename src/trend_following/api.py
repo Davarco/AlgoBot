@@ -17,8 +17,8 @@ stock_dict_list = []
 for key in stock_data:
     stock_dict_list.append(Stock(key, stock_data[key], k, 0, num_days))
 
-buy_order = sorted(stock_dict_list, key=lambda stock_sorting: stock_sorting.lower_band_diff, reverse=True)
-sell_order = sorted(stock_dict_list, key=lambda stock_sorting: stock_sorting.upper_band_diff, reverse=True)
+buy_order = sorted(stock_dict_list, key=lambda stock_sorting: stock_sorting.ma_diff, reverse=False)
+sell_order = sorted(stock_dict_list, key=lambda stock_sorting: stock_sorting.ma_diff, reverse=True)
 
 buy_json = []
 for stock in buy_order:
@@ -65,4 +65,4 @@ api.add_resource(SellOrder, '/stocks/sell')
 api.add_resource(GetStock, '/stocks/get/<string:ticker>')
 
 if __name__ == '__main__':
-    app.run(host='192.168.223.128')
+    app.run(host='0.0.0.0')

@@ -16,6 +16,7 @@ class Stock(object):
     lower_band_diff = 0
     ma_200 = 0
     ma_50 = 0
+    ma_diff = 0
     yest_price = 0
 
     def __str__(self):
@@ -44,3 +45,4 @@ class Stock(object):
         # Get the 200 and 50 day moving averages
         self.ma_200 = prices[0:200].mean()
         self.ma_50 = prices[0:50].mean()
+        self.ma_diff = (self.ma_50 - self.ma_200) / self.ma_200
