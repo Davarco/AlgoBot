@@ -75,7 +75,7 @@ def graph_mean_reversion_default():
     time_span = 1000
 
     # List that holds the data
-    stock_data = retrieve_list("input/companies/custom.txt")
+    stock_data = retrieve_list("input/custom.txt")
 
     # 2d arr, arr holds list of stocks throughout time span, each arr is a different stock
     stock_data_list = []

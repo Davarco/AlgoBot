@@ -15,7 +15,7 @@ api = Api(app)
 todos = {}
 
 # Get stock data
-stock_data = retrieve_list("input/companies/complete.txt")
+stock_data = retrieve_list("input/complete.txt")
 stock_dict_list = []
 for key in stock_data:
     stock_dict_list.append(Stock(key, stock_data[key], k, 0, num_days))

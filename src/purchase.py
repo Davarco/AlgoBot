@@ -10,7 +10,7 @@ time_span = 300
 def main():
 
     # List that holds the data
-    stock_data = retrieve_list("input/companies/complete.txt")
+    stock_data = retrieve_list("input/complete.txt")
 
     # 2d arr, arr holds list of stocks throughout time span, each arr is a different stock
     stock_dict_list = []
