@@ -70,4 +70,4 @@ api.add_resource(SellOrder, '/stocks/sell')
 api.add_resource(GetStock, '/stocks/get/<string:ticker>')
 
 if __name__ == '__main__':
-    app.run(host='')
+    app.run(host='0.0.0.0')

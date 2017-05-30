@@ -23,6 +23,8 @@ In addition to the dependencies listed above, you will need an internet connecti
 
 Both the backtest.py in the strategies mean reversion and trend following test the algorithm on historical data. The user can specify the amount of historical days used by modifying the constant **time_span** found in the source code. In mean reversion, the user can also specify the Bollinger band constant, which is represented by the constant **k**. However, the default Bollinger band constant of 1.20 is recommended. Modifying this constant in the trend following algorithm will have no effect.
 
+Make sure to run the python files from the project root directory. Althoug the API is meant to be run under a NGROK tunneler, you can also host it locally by running the api.py file. 
+
 ## License
 
     AlgoBot - An algorithmic trading bot written in Python
