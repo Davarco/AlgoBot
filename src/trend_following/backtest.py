@@ -13,7 +13,7 @@ import numpy as np
 # Constants
 k = 1.2
 num_days = 200
-time_span = 300
+time_span = 200
 LOG = "logs/"
 
 

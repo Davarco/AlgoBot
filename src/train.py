@@ -29,7 +29,6 @@ def main():
 
     # Show results
     print(result.summary())
-    print(result.predict([0.8, 0.9, 0.95, 1]))
 
 if __name__ == '__main__':
     main()
