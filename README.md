@@ -28,7 +28,6 @@ Make sure to run the python files from the project root directory. Althoug the A
 ## License
 
     AlgoBot - An algorithmic trading bot written in Python
-    Copyright (C) 2017  Vanshaj Singhania, David Zhang, Emil Tu
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
