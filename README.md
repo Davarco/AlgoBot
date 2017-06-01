@@ -28,7 +28,7 @@ Make sure to run all Python executables from the project's **root** directory!
 
 **API:**
 
-The API is designed for optimal use through PyCharm and under an NGROK port tunnel. You can also host it locally by running the api.py file (again, from the **root** directory!).
+The API is designed for optimal use through PyCharm and under an NGROK port tunnel. You can also host it locally by running the api.py file **under mean_reversion** (again, from the **root** directory!).
 
 The API is hosted at http://apcsalgobot.herokuapp.com/ and provides the following methods:
 
