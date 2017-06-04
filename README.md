@@ -13,8 +13,7 @@ AlgoBot is an algorithmic trading robot written in Python. It currently analyzes
  - Python 3.5+
  - Numpy 
  - Pandas
- - Requests
- - Matplotlib (not required for API)
+ - Matplotlib
  - Flask (API only)
  - Flask-RESTful (API only)
  
@@ -28,15 +27,7 @@ Make sure to run all Python executables from the project's **root** directory!
 
 **API:**
 
-The API is designed for optimal use through PyCharm and under an NGROK port tunnel. You can also host it locally by running the api.py file **under mean_reversion** (again, from the **root** directory!).
-
-The API is hosted at http://apcsalgobot.herokuapp.com/ and provides the following methods:
-
- - /stocks/get/**ticker** - replace ticker with the symbol for any NASDAQ 100 stock. EX /stocks/get/GOOG
- - /stocks/buy - returns a JSON list of all NASDAQ 100 stocks sorted in order of difference between today's price and the general lower band. The topmost is most favorable to purchase today.
- - /stocks/sell - returns a JSON list of all NASDAQ 100 stocks sorted in order of difference between today's price and the general upper band. The topmost is most favorable to sell today.
- 
-Do keep in mind that, while we try our best, our API server is set up to sleep after 30 minutes of inactivity. So if it's taking you longer than usual to load results, just know that nothing is broken - it's just the API starting up again. We manually restart the API server once each day to fetch results relevant to today's data.
+The API is designed for optimal use through PyCharm and under an NGROK port tunnel. You can also host it locally by running the api.py file under either of the src directories.
 
 ## License
 
